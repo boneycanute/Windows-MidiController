@@ -1,0 +1,4 @@
+2024-11-25 21:33:49,624 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 21:33:49,657 - MPKMini - ERROR - Failed to initialize MIDI: b"PortMidi: `Host error'"
+2024-11-25 21:33:49,658 - MPKMini - ERROR - No MIDI input device available
+2024-11-25 21:33:49,658 - MPKMini - INFO - Cleaned up resources

@@ -1,0 +1,9 @@
+2024-11-25 21:26:00.105 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 21:26:00.138 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 21:26:00.145 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 21:26:01.214 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 21:26:01.216 - MPKMini - INFO - Starting MIDI controller loop
+2024-11-25 21:26:02.258 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 21:26:09.275 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 21:31:18.500 - MPKMini - INFO - Received keyboard interrupt, stopping...
+2024-11-25 21:31:18.504 - MPKMini - INFO - Cleaned up resources

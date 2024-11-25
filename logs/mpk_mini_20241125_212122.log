@@ -1,0 +1,26 @@
+2024-11-25 21:21:22.530 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 21:21:22.561 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 21:21:22.567 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 21:21:24.468 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 21:21:24.469 - MPKMini - INFO - Starting MIDI controller loop
+2024-11-25 21:21:29.349 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:21:30.522 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:21:31.587 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:21:32.249 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:21:36.340 - MPKMini - INFO - Spotify not found, launching...
+2024-11-25 21:21:36.386 - MPKMini - INFO - Launching Spotify from: C:\Users\Bones\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+2024-11-25 21:21:38.488 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:21:58.628 - MPKMini - INFO - Moved window to monitor 2
+2024-11-25 21:21:59.937 - MPKMini - INFO - Moved window to monitor 2
+2024-11-25 21:22:01.420 - MPKMini - INFO - Moved window to monitor 2
+2024-11-25 21:22:05.731 - MPKMini - INFO - Moved window to monitor 2
+2024-11-25 21:22:07.031 - MPKMini - INFO - Moved window to monitor 2
+2024-11-25 21:22:09.396 - MPKMini - INFO - Moved window to monitor 2
+2024-11-25 21:22:10.087 - MPKMini - INFO - Moved window to monitor 2
+2024-11-25 21:22:44.754 - MPKMini - INFO - Moved window to monitor 2
+2024-11-25 21:22:45.528 - MPKMini - INFO - Moved window to monitor 2
+2024-11-25 21:22:52.445 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 21:22:57.557 - MPKMini - INFO - Opened audio output selection
+2024-11-25 21:23:44.822 - MPKMini - INFO - Received keyboard interrupt, stopping...
+2024-11-25 21:23:44.826 - MPKMini - INFO - Cleaned up resources
+2024-11-25 21:23:49.139 - root - ERROR - Fatal error: 

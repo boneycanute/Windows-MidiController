@@ -1,0 +1,49 @@
+{
+  "pad_mappings": {
+    "0": "Previous Track",
+    "1": "Play/Pause Spotify",
+    "2": "Next Track",
+    "12": "Launch/Focus Slack",
+    "13": "Launch/Focus Windsurf",
+    "15": "Voice Recognition",
+    "14": "Toggle Audio Output",
+    "3": "Move to Next Display"
+  },
+  "knob_mappings": {
+    "1": {
+      "action": "System Volume",
+      "min": 1,
+      "max": 127
+    },
+    "2": {
+      "action": "Spotify Volume",
+      "min": 1,
+      "max": 127
+    },
+    "3": {
+      "action": "Firefox Volume",
+      "min": 1,
+      "max": 127
+    },
+    "4": {
+      "action": "Screen Brightness",
+      "min": 1,
+      "max": 127
+    },
+    "5": {
+      "action": "Relative Zoom",
+      "min": 1,
+      "max": 127
+    },
+    "6": {
+      "action": "Horizontal Scroll",
+      "min": 1,
+      "max": 127
+    },
+    "7": {
+      "action": "Vertical Scroll",
+      "min": 1,
+      "max": 127
+    }
+  }
+}

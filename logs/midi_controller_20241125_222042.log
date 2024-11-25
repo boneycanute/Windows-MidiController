@@ -1,0 +1,1101 @@
+2024-11-25 22:20:42,821 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 22:20:42,825 - MPKMini - INFO - WMI initialized successfully
+2024-11-25 22:20:42,862 - MPKMini - INFO - Found 4 MIDI devices:
+2024-11-25 22:20:42,862 - MPKMini - INFO - Device 0: Microsoft MIDI Mapper (Input: False, Output: True)
+2024-11-25 22:20:42,862 - MPKMini - INFO - Device 1: MPK Mini Mk II (Input: True, Output: False)
+2024-11-25 22:20:42,862 - MPKMini - INFO - Device 2: Microsoft GS Wavetable Synth (Input: False, Output: True)
+2024-11-25 22:20:42,862 - MPKMini - INFO - Device 3: MPK Mini Mk II (Input: False, Output: True)
+2024-11-25 22:20:42,870 - MPKMini - INFO - Connected to MIDI device: MPK Mini Mk II
+2024-11-25 22:20:42,870 - MPKMini - INFO - Started monitoring MIDI input
+2024-11-25 22:20:45,170 - MPKMini - INFO - Received knob CC: 1, value: 1
+2024-11-25 22:20:45,170 - MPKMini - INFO - Normalized value: 0.01
+2024-11-25 22:20:45,175 - MPKMini - INFO - System volume set to 1%
+2024-11-25 22:20:45,196 - MPKMini - INFO - Received knob CC: 1, value: 2
+2024-11-25 22:20:45,197 - MPKMini - INFO - Normalized value: 0.02
+2024-11-25 22:20:45,200 - MPKMini - INFO - System volume set to 2%
+2024-11-25 22:20:45,221 - MPKMini - INFO - Received knob CC: 1, value: 3
+2024-11-25 22:20:45,221 - MPKMini - INFO - Normalized value: 0.02
+2024-11-25 22:20:45,225 - MPKMini - INFO - System volume set to 2%
+2024-11-25 22:20:45,265 - MPKMini - INFO - Received knob CC: 1, value: 4
+2024-11-25 22:20:45,265 - MPKMini - INFO - Normalized value: 0.03
+2024-11-25 22:20:45,268 - MPKMini - INFO - System volume set to 3%
+2024-11-25 22:20:45,330 - MPKMini - INFO - Received knob CC: 1, value: 5
+2024-11-25 22:20:45,330 - MPKMini - INFO - Normalized value: 0.04
+2024-11-25 22:20:45,334 - MPKMini - INFO - System volume set to 4%
+2024-11-25 22:20:45,356 - MPKMini - INFO - Received knob CC: 1, value: 6
+2024-11-25 22:20:45,357 - MPKMini - INFO - Normalized value: 0.05
+2024-11-25 22:20:45,363 - MPKMini - INFO - System volume set to 5%
+2024-11-25 22:20:45,381 - MPKMini - INFO - Received knob CC: 1, value: 7
+2024-11-25 22:20:45,382 - MPKMini - INFO - Normalized value: 0.06
+2024-11-25 22:20:45,386 - MPKMini - INFO - System volume set to 6%
+2024-11-25 22:20:45,812 - MPKMini - INFO - Received knob CC: 1, value: 8
+2024-11-25 22:20:45,812 - MPKMini - INFO - Normalized value: 0.06
+2024-11-25 22:20:45,815 - MPKMini - INFO - System volume set to 6%
+2024-11-25 22:20:46,063 - MPKMini - INFO - Received knob CC: 1, value: 9
+2024-11-25 22:20:46,063 - MPKMini - INFO - Normalized value: 0.07
+2024-11-25 22:20:46,068 - MPKMini - INFO - System volume set to 7%
+2024-11-25 22:20:46,213 - MPKMini - INFO - Received knob CC: 1, value: 10
+2024-11-25 22:20:46,213 - MPKMini - INFO - Normalized value: 0.08
+2024-11-25 22:20:46,217 - MPKMini - INFO - System volume set to 8%
+2024-11-25 22:20:46,265 - MPKMini - INFO - Received knob CC: 1, value: 11
+2024-11-25 22:20:46,265 - MPKMini - INFO - Normalized value: 0.09
+2024-11-25 22:20:46,268 - MPKMini - INFO - System volume set to 9%
+2024-11-25 22:20:46,293 - MPKMini - INFO - Received knob CC: 1, value: 12
+2024-11-25 22:20:46,294 - MPKMini - INFO - Normalized value: 0.09
+2024-11-25 22:20:46,297 - MPKMini - INFO - System volume set to 9%
+2024-11-25 22:20:46,414 - MPKMini - INFO - Received knob CC: 1, value: 13
+2024-11-25 22:20:46,414 - MPKMini - INFO - Normalized value: 0.10
+2024-11-25 22:20:46,418 - MPKMini - INFO - System volume set to 10%
+2024-11-25 22:20:46,451 - MPKMini - INFO - Received knob CC: 1, value: 14
+2024-11-25 22:20:46,451 - MPKMini - INFO - Normalized value: 0.11
+2024-11-25 22:20:46,455 - MPKMini - INFO - System volume set to 11%
+2024-11-25 22:20:46,630 - MPKMini - INFO - Received knob CC: 1, value: 15
+2024-11-25 22:20:46,630 - MPKMini - INFO - Normalized value: 0.12
+2024-11-25 22:20:46,634 - MPKMini - INFO - System volume set to 12%
+2024-11-25 22:20:46,645 - MPKMini - INFO - Received knob CC: 1, value: 16
+2024-11-25 22:20:46,645 - MPKMini - INFO - Normalized value: 0.13
+2024-11-25 22:20:46,651 - MPKMini - INFO - System volume set to 13%
+2024-11-25 22:20:46,695 - MPKMini - INFO - Received knob CC: 1, value: 17
+2024-11-25 22:20:46,695 - MPKMini - INFO - Normalized value: 0.13
+2024-11-25 22:20:46,699 - MPKMini - INFO - System volume set to 13%
+2024-11-25 22:20:46,848 - MPKMini - INFO - Received knob CC: 1, value: 18
+2024-11-25 22:20:46,848 - MPKMini - INFO - Normalized value: 0.14
+2024-11-25 22:20:46,852 - MPKMini - INFO - System volume set to 14%
+2024-11-25 22:20:46,910 - MPKMini - INFO - Received knob CC: 1, value: 20
+2024-11-25 22:20:46,910 - MPKMini - INFO - Normalized value: 0.16
+2024-11-25 22:20:46,914 - MPKMini - INFO - System volume set to 16%
+2024-11-25 22:20:46,962 - MPKMini - INFO - Received knob CC: 1, value: 21
+2024-11-25 22:20:46,963 - MPKMini - INFO - Normalized value: 0.17
+2024-11-25 22:20:46,966 - MPKMini - INFO - System volume set to 17%
+2024-11-25 22:20:47,086 - MPKMini - INFO - Received knob CC: 1, value: 22
+2024-11-25 22:20:47,086 - MPKMini - INFO - Normalized value: 0.17
+2024-11-25 22:20:47,090 - MPKMini - INFO - System volume set to 17%
+2024-11-25 22:20:47,130 - MPKMini - INFO - Received knob CC: 1, value: 23
+2024-11-25 22:20:47,130 - MPKMini - INFO - Normalized value: 0.18
+2024-11-25 22:20:47,134 - MPKMini - INFO - System volume set to 18%
+2024-11-25 22:20:47,238 - MPKMini - INFO - Received knob CC: 1, value: 24
+2024-11-25 22:20:47,239 - MPKMini - INFO - Normalized value: 0.19
+2024-11-25 22:20:47,244 - MPKMini - INFO - System volume set to 19%
+2024-11-25 22:20:47,286 - MPKMini - INFO - Received knob CC: 1, value: 25
+2024-11-25 22:20:47,287 - MPKMini - INFO - Normalized value: 0.20
+2024-11-25 22:20:47,291 - MPKMini - INFO - System volume set to 20%
+2024-11-25 22:20:47,312 - MPKMini - INFO - Received knob CC: 1, value: 26
+2024-11-25 22:20:47,313 - MPKMini - INFO - Normalized value: 0.20
+2024-11-25 22:20:47,316 - MPKMini - INFO - System volume set to 20%
+2024-11-25 22:20:47,545 - MPKMini - INFO - Received knob CC: 1, value: 27
+2024-11-25 22:20:47,546 - MPKMini - INFO - Normalized value: 0.21
+2024-11-25 22:20:47,549 - MPKMini - INFO - System volume set to 21%
+2024-11-25 22:20:47,556 - MPKMini - INFO - Received knob CC: 1, value: 28
+2024-11-25 22:20:47,557 - MPKMini - INFO - Normalized value: 0.22
+2024-11-25 22:20:47,561 - MPKMini - INFO - System volume set to 22%
+2024-11-25 22:20:47,691 - MPKMini - INFO - Received knob CC: 1, value: 29
+2024-11-25 22:20:47,692 - MPKMini - INFO - Normalized value: 0.23
+2024-11-25 22:20:47,696 - MPKMini - INFO - System volume set to 23%
+2024-11-25 22:20:47,918 - MPKMini - INFO - Received knob CC: 1, value: 30
+2024-11-25 22:20:47,919 - MPKMini - INFO - Normalized value: 0.24
+2024-11-25 22:20:47,923 - MPKMini - INFO - System volume set to 24%
+2024-11-25 22:20:48,034 - MPKMini - INFO - Received knob CC: 1, value: 31
+2024-11-25 22:20:48,035 - MPKMini - INFO - Normalized value: 0.24
+2024-11-25 22:20:48,038 - MPKMini - INFO - System volume set to 24%
+2024-11-25 22:20:48,342 - MPKMini - INFO - Received knob CC: 1, value: 32
+2024-11-25 22:20:48,342 - MPKMini - INFO - Normalized value: 0.25
+2024-11-25 22:20:48,345 - MPKMini - INFO - System volume set to 25%
+2024-11-25 22:20:48,363 - MPKMini - INFO - Received knob CC: 1, value: 33
+2024-11-25 22:20:48,363 - MPKMini - INFO - Normalized value: 0.26
+2024-11-25 22:20:48,367 - MPKMini - INFO - System volume set to 26%
+2024-11-25 22:20:48,577 - MPKMini - INFO - Received knob CC: 1, value: 34
+2024-11-25 22:20:48,578 - MPKMini - INFO - Normalized value: 0.27
+2024-11-25 22:20:48,581 - MPKMini - INFO - System volume set to 27%
+2024-11-25 22:20:48,840 - MPKMini - INFO - Received knob CC: 1, value: 35
+2024-11-25 22:20:48,841 - MPKMini - INFO - Normalized value: 0.28
+2024-11-25 22:20:48,844 - MPKMini - INFO - System volume set to 28%
+2024-11-25 22:20:48,972 - MPKMini - INFO - Received knob CC: 1, value: 36
+2024-11-25 22:20:48,973 - MPKMini - INFO - Normalized value: 0.28
+2024-11-25 22:20:48,976 - MPKMini - INFO - System volume set to 28%
+2024-11-25 22:20:48,983 - MPKMini - INFO - Received knob CC: 1, value: 37
+2024-11-25 22:20:48,984 - MPKMini - INFO - Normalized value: 0.29
+2024-11-25 22:20:48,988 - MPKMini - INFO - System volume set to 29%
+2024-11-25 22:20:49,005 - MPKMini - INFO - Received knob CC: 1, value: 38
+2024-11-25 22:20:49,006 - MPKMini - INFO - Normalized value: 0.30
+2024-11-25 22:20:49,011 - MPKMini - INFO - System volume set to 30%
+2024-11-25 22:20:49,038 - MPKMini - INFO - Received knob CC: 1, value: 39
+2024-11-25 22:20:49,038 - MPKMini - INFO - Normalized value: 0.31
+2024-11-25 22:20:49,044 - MPKMini - INFO - System volume set to 31%
+2024-11-25 22:20:49,253 - MPKMini - INFO - Received knob CC: 1, value: 40
+2024-11-25 22:20:49,253 - MPKMini - INFO - Normalized value: 0.31
+2024-11-25 22:20:49,257 - MPKMini - INFO - System volume set to 31%
+2024-11-25 22:20:49,260 - MPKMini - INFO - Received knob CC: 1, value: 41
+2024-11-25 22:20:49,260 - MPKMini - INFO - Normalized value: 0.32
+2024-11-25 22:20:49,263 - MPKMini - INFO - System volume set to 32%
+2024-11-25 22:20:49,421 - MPKMini - INFO - Received knob CC: 1, value: 42
+2024-11-25 22:20:49,421 - MPKMini - INFO - Normalized value: 0.33
+2024-11-25 22:20:49,425 - MPKMini - INFO - System volume set to 33%
+2024-11-25 22:20:49,687 - MPKMini - INFO - Received knob CC: 1, value: 43
+2024-11-25 22:20:49,688 - MPKMini - INFO - Normalized value: 0.34
+2024-11-25 22:20:49,692 - MPKMini - INFO - System volume set to 34%
+2024-11-25 22:20:49,880 - MPKMini - INFO - Received knob CC: 1, value: 45
+2024-11-25 22:20:49,880 - MPKMini - INFO - Normalized value: 0.35
+2024-11-25 22:20:49,884 - MPKMini - INFO - System volume set to 35%
+2024-11-25 22:20:50,143 - MPKMini - INFO - Received knob CC: 1, value: 46
+2024-11-25 22:20:50,143 - MPKMini - INFO - Normalized value: 0.36
+2024-11-25 22:20:50,147 - MPKMini - INFO - System volume set to 36%
+2024-11-25 22:20:50,370 - MPKMini - INFO - Received knob CC: 1, value: 47
+2024-11-25 22:20:50,370 - MPKMini - INFO - Normalized value: 0.37
+2024-11-25 22:20:50,374 - MPKMini - INFO - System volume set to 37%
+2024-11-25 22:20:50,738 - MPKMini - INFO - Received knob CC: 1, value: 48
+2024-11-25 22:20:50,738 - MPKMini - INFO - Normalized value: 0.38
+2024-11-25 22:20:50,742 - MPKMini - INFO - System volume set to 38%
+2024-11-25 22:20:50,954 - MPKMini - INFO - Received knob CC: 1, value: 47
+2024-11-25 22:20:50,954 - MPKMini - INFO - Normalized value: 0.37
+2024-11-25 22:20:50,958 - MPKMini - INFO - System volume set to 37%
+2024-11-25 22:20:51,033 - MPKMini - INFO - Received knob CC: 3, value: 21
+2024-11-25 22:20:51,033 - MPKMini - INFO - Normalized value: 0.17
+2024-11-25 22:20:51,047 - MPKMini - WARNING - firefox.exe not found
+2024-11-25 22:20:51,935 - MPKMini - INFO - Received knob CC: 2, value: 36
+2024-11-25 22:20:51,935 - MPKMini - INFO - Normalized value: 0.28
+2024-11-25 22:20:51,947 - MPKMini - INFO - spotify.exe volume set to 28%
+2024-11-25 22:20:51,949 - MPKMini - INFO - Received knob CC: 2, value: 37
+2024-11-25 22:20:51,949 - MPKMini - INFO - Normalized value: 0.29
+2024-11-25 22:20:51,961 - MPKMini - INFO - spotify.exe volume set to 29%
+2024-11-25 22:20:51,990 - MPKMini - INFO - Received knob CC: 2, value: 38
+2024-11-25 22:20:51,991 - MPKMini - INFO - Normalized value: 0.30
+2024-11-25 22:20:52,004 - MPKMini - INFO - spotify.exe volume set to 30%
+2024-11-25 22:20:52,019 - MPKMini - INFO - Received knob CC: 2, value: 39
+2024-11-25 22:20:52,019 - MPKMini - INFO - Normalized value: 0.31
+2024-11-25 22:20:52,032 - MPKMini - INFO - spotify.exe volume set to 31%
+2024-11-25 22:20:52,037 - MPKMini - INFO - Received knob CC: 2, value: 41
+2024-11-25 22:20:52,037 - MPKMini - INFO - Normalized value: 0.32
+2024-11-25 22:20:52,051 - MPKMini - INFO - spotify.exe volume set to 32%
+2024-11-25 22:20:52,055 - MPKMini - INFO - Received knob CC: 2, value: 42
+2024-11-25 22:20:52,055 - MPKMini - INFO - Normalized value: 0.33
+2024-11-25 22:20:52,069 - MPKMini - INFO - spotify.exe volume set to 33%
+2024-11-25 22:20:52,072 - MPKMini - INFO - Received knob CC: 2, value: 43
+2024-11-25 22:20:52,073 - MPKMini - INFO - Normalized value: 0.34
+2024-11-25 22:20:52,088 - MPKMini - INFO - spotify.exe volume set to 34%
+2024-11-25 22:20:52,095 - MPKMini - INFO - Received knob CC: 2, value: 45
+2024-11-25 22:20:52,095 - MPKMini - INFO - Normalized value: 0.35
+2024-11-25 22:20:52,109 - MPKMini - INFO - spotify.exe volume set to 35%
+2024-11-25 22:20:52,157 - MPKMini - INFO - Received knob CC: 2, value: 46
+2024-11-25 22:20:52,158 - MPKMini - INFO - Normalized value: 0.36
+2024-11-25 22:20:52,170 - MPKMini - INFO - spotify.exe volume set to 36%
+2024-11-25 22:20:52,194 - MPKMini - INFO - Received knob CC: 2, value: 47
+2024-11-25 22:20:52,194 - MPKMini - INFO - Normalized value: 0.37
+2024-11-25 22:20:52,206 - MPKMini - INFO - spotify.exe volume set to 37%
+2024-11-25 22:20:52,209 - MPKMini - INFO - Received knob CC: 2, value: 48
+2024-11-25 22:20:52,209 - MPKMini - INFO - Normalized value: 0.38
+2024-11-25 22:20:52,227 - MPKMini - INFO - spotify.exe volume set to 38%
+2024-11-25 22:20:52,229 - MPKMini - INFO - Received knob CC: 2, value: 49
+2024-11-25 22:20:52,229 - MPKMini - INFO - Normalized value: 0.39
+2024-11-25 22:20:52,246 - MPKMini - INFO - spotify.exe volume set to 39%
+2024-11-25 22:20:52,249 - MPKMini - INFO - Received knob CC: 2, value: 50
+2024-11-25 22:20:52,249 - MPKMini - INFO - Normalized value: 0.39
+2024-11-25 22:20:52,264 - MPKMini - INFO - spotify.exe volume set to 39%
+2024-11-25 22:20:52,264 - MPKMini - INFO - Received knob CC: 2, value: 51
+2024-11-25 22:20:52,265 - MPKMini - INFO - Normalized value: 0.40
+2024-11-25 22:20:52,283 - MPKMini - INFO - spotify.exe volume set to 40%
+2024-11-25 22:20:52,286 - MPKMini - INFO - Received knob CC: 2, value: 52
+2024-11-25 22:20:52,286 - MPKMini - INFO - Normalized value: 0.41
+2024-11-25 22:20:52,301 - MPKMini - INFO - spotify.exe volume set to 41%
+2024-11-25 22:20:52,303 - MPKMini - INFO - Received knob CC: 2, value: 53
+2024-11-25 22:20:52,304 - MPKMini - INFO - Normalized value: 0.42
+2024-11-25 22:20:52,318 - MPKMini - INFO - spotify.exe volume set to 42%
+2024-11-25 22:20:52,340 - MPKMini - INFO - Received knob CC: 2, value: 54
+2024-11-25 22:20:52,341 - MPKMini - INFO - Normalized value: 0.43
+2024-11-25 22:20:52,355 - MPKMini - INFO - spotify.exe volume set to 43%
+2024-11-25 22:20:52,358 - MPKMini - INFO - Received knob CC: 2, value: 55
+2024-11-25 22:20:52,359 - MPKMini - INFO - Normalized value: 0.43
+2024-11-25 22:20:52,372 - MPKMini - INFO - spotify.exe volume set to 43%
+2024-11-25 22:20:52,374 - MPKMini - INFO - Received knob CC: 2, value: 57
+2024-11-25 22:20:52,374 - MPKMini - INFO - Normalized value: 0.45
+2024-11-25 22:20:52,389 - MPKMini - INFO - spotify.exe volume set to 45%
+2024-11-25 22:20:52,392 - MPKMini - INFO - Received knob CC: 2, value: 58
+2024-11-25 22:20:52,392 - MPKMini - INFO - Normalized value: 0.46
+2024-11-25 22:20:52,406 - MPKMini - INFO - spotify.exe volume set to 46%
+2024-11-25 22:20:52,460 - MPKMini - INFO - Received knob CC: 2, value: 59
+2024-11-25 22:20:52,461 - MPKMini - INFO - Normalized value: 0.46
+2024-11-25 22:20:52,476 - MPKMini - INFO - spotify.exe volume set to 46%
+2024-11-25 22:20:52,482 - MPKMini - INFO - Received knob CC: 2, value: 60
+2024-11-25 22:20:52,482 - MPKMini - INFO - Normalized value: 0.47
+2024-11-25 22:20:52,499 - MPKMini - INFO - spotify.exe volume set to 47%
+2024-11-25 22:20:52,501 - MPKMini - INFO - Received knob CC: 2, value: 61
+2024-11-25 22:20:52,502 - MPKMini - INFO - Normalized value: 0.48
+2024-11-25 22:20:52,519 - MPKMini - INFO - spotify.exe volume set to 48%
+2024-11-25 22:20:52,521 - MPKMini - INFO - Received knob CC: 2, value: 62
+2024-11-25 22:20:52,522 - MPKMini - INFO - Normalized value: 0.49
+2024-11-25 22:20:52,537 - MPKMini - INFO - spotify.exe volume set to 49%
+2024-11-25 22:20:52,584 - MPKMini - INFO - Received knob CC: 2, value: 63
+2024-11-25 22:20:52,585 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:20:52,597 - MPKMini - INFO - spotify.exe volume set to 50%
+2024-11-25 22:20:52,610 - MPKMini - INFO - Received knob CC: 2, value: 64
+2024-11-25 22:20:52,610 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:20:52,627 - MPKMini - INFO - spotify.exe volume set to 50%
+2024-11-25 22:20:52,629 - MPKMini - INFO - Received knob CC: 2, value: 66
+2024-11-25 22:20:52,629 - MPKMini - INFO - Normalized value: 0.52
+2024-11-25 22:20:52,643 - MPKMini - INFO - spotify.exe volume set to 52%
+2024-11-25 22:20:52,645 - MPKMini - INFO - Received knob CC: 2, value: 67
+2024-11-25 22:20:52,645 - MPKMini - INFO - Normalized value: 0.53
+2024-11-25 22:20:52,658 - MPKMini - INFO - spotify.exe volume set to 53%
+2024-11-25 22:20:52,660 - MPKMini - INFO - Received knob CC: 2, value: 68
+2024-11-25 22:20:52,660 - MPKMini - INFO - Normalized value: 0.54
+2024-11-25 22:20:52,673 - MPKMini - INFO - spotify.exe volume set to 54%
+2024-11-25 22:20:52,674 - MPKMini - INFO - Received knob CC: 2, value: 70
+2024-11-25 22:20:52,674 - MPKMini - INFO - Normalized value: 0.55
+2024-11-25 22:20:52,687 - MPKMini - INFO - spotify.exe volume set to 55%
+2024-11-25 22:20:52,689 - MPKMini - INFO - Received knob CC: 2, value: 71
+2024-11-25 22:20:52,689 - MPKMini - INFO - Normalized value: 0.56
+2024-11-25 22:20:52,708 - MPKMini - INFO - spotify.exe volume set to 56%
+2024-11-25 22:20:52,709 - MPKMini - INFO - Received knob CC: 2, value: 72
+2024-11-25 22:20:52,709 - MPKMini - INFO - Normalized value: 0.57
+2024-11-25 22:20:52,722 - MPKMini - INFO - spotify.exe volume set to 57%
+2024-11-25 22:20:52,723 - MPKMini - INFO - Received knob CC: 2, value: 73
+2024-11-25 22:20:52,723 - MPKMini - INFO - Normalized value: 0.57
+2024-11-25 22:20:52,736 - MPKMini - INFO - spotify.exe volume set to 57%
+2024-11-25 22:20:52,738 - MPKMini - INFO - Received knob CC: 2, value: 74
+2024-11-25 22:20:52,738 - MPKMini - INFO - Normalized value: 0.58
+2024-11-25 22:20:52,751 - MPKMini - INFO - spotify.exe volume set to 58%
+2024-11-25 22:20:52,751 - MPKMini - INFO - Received knob CC: 2, value: 76
+2024-11-25 22:20:52,751 - MPKMini - INFO - Normalized value: 0.60
+2024-11-25 22:20:52,764 - MPKMini - INFO - spotify.exe volume set to 60%
+2024-11-25 22:20:52,765 - MPKMini - INFO - Received knob CC: 2, value: 77
+2024-11-25 22:20:52,765 - MPKMini - INFO - Normalized value: 0.61
+2024-11-25 22:20:52,778 - MPKMini - INFO - spotify.exe volume set to 61%
+2024-11-25 22:20:52,779 - MPKMini - INFO - Received knob CC: 2, value: 78
+2024-11-25 22:20:52,779 - MPKMini - INFO - Normalized value: 0.61
+2024-11-25 22:20:52,793 - MPKMini - INFO - spotify.exe volume set to 61%
+2024-11-25 22:20:52,794 - MPKMini - INFO - Received knob CC: 2, value: 80
+2024-11-25 22:20:52,794 - MPKMini - INFO - Normalized value: 0.63
+2024-11-25 22:20:52,808 - MPKMini - INFO - spotify.exe volume set to 63%
+2024-11-25 22:20:52,809 - MPKMini - INFO - Received knob CC: 2, value: 81
+2024-11-25 22:20:52,809 - MPKMini - INFO - Normalized value: 0.64
+2024-11-25 22:20:52,823 - MPKMini - INFO - spotify.exe volume set to 64%
+2024-11-25 22:20:52,825 - MPKMini - INFO - Received knob CC: 2, value: 82
+2024-11-25 22:20:52,826 - MPKMini - INFO - Normalized value: 0.65
+2024-11-25 22:20:52,839 - MPKMini - INFO - spotify.exe volume set to 65%
+2024-11-25 22:20:52,840 - MPKMini - INFO - Received knob CC: 2, value: 83
+2024-11-25 22:20:52,840 - MPKMini - INFO - Normalized value: 0.65
+2024-11-25 22:20:52,854 - MPKMini - INFO - spotify.exe volume set to 65%
+2024-11-25 22:20:52,854 - MPKMini - INFO - Received knob CC: 2, value: 85
+2024-11-25 22:20:52,854 - MPKMini - INFO - Normalized value: 0.67
+2024-11-25 22:20:52,868 - MPKMini - INFO - spotify.exe volume set to 67%
+2024-11-25 22:20:52,868 - MPKMini - INFO - Received knob CC: 2, value: 86
+2024-11-25 22:20:52,869 - MPKMini - INFO - Normalized value: 0.68
+2024-11-25 22:20:52,881 - MPKMini - INFO - spotify.exe volume set to 68%
+2024-11-25 22:20:52,882 - MPKMini - INFO - Received knob CC: 2, value: 87
+2024-11-25 22:20:52,882 - MPKMini - INFO - Normalized value: 0.69
+2024-11-25 22:20:52,894 - MPKMini - INFO - spotify.exe volume set to 69%
+2024-11-25 22:20:52,895 - MPKMini - INFO - Received knob CC: 2, value: 89
+2024-11-25 22:20:52,895 - MPKMini - INFO - Normalized value: 0.70
+2024-11-25 22:20:52,908 - MPKMini - INFO - spotify.exe volume set to 70%
+2024-11-25 22:20:52,909 - MPKMini - INFO - Received knob CC: 2, value: 90
+2024-11-25 22:20:52,909 - MPKMini - INFO - Normalized value: 0.71
+2024-11-25 22:20:52,921 - MPKMini - INFO - spotify.exe volume set to 71%
+2024-11-25 22:20:52,922 - MPKMini - INFO - Received knob CC: 2, value: 91
+2024-11-25 22:20:52,922 - MPKMini - INFO - Normalized value: 0.72
+2024-11-25 22:20:52,935 - MPKMini - INFO - spotify.exe volume set to 72%
+2024-11-25 22:20:52,935 - MPKMini - INFO - Received knob CC: 2, value: 92
+2024-11-25 22:20:52,936 - MPKMini - INFO - Normalized value: 0.72
+2024-11-25 22:20:52,948 - MPKMini - INFO - spotify.exe volume set to 72%
+2024-11-25 22:20:52,949 - MPKMini - INFO - Received knob CC: 2, value: 93
+2024-11-25 22:20:52,949 - MPKMini - INFO - Normalized value: 0.73
+2024-11-25 22:20:52,962 - MPKMini - INFO - spotify.exe volume set to 73%
+2024-11-25 22:20:52,964 - MPKMini - INFO - Received knob CC: 2, value: 94
+2024-11-25 22:20:52,964 - MPKMini - INFO - Normalized value: 0.74
+2024-11-25 22:20:52,978 - MPKMini - INFO - spotify.exe volume set to 74%
+2024-11-25 22:20:52,978 - MPKMini - INFO - Received knob CC: 2, value: 95
+2024-11-25 22:20:52,979 - MPKMini - INFO - Normalized value: 0.75
+2024-11-25 22:20:52,992 - MPKMini - INFO - spotify.exe volume set to 75%
+2024-11-25 22:20:52,993 - MPKMini - INFO - Received knob CC: 2, value: 97
+2024-11-25 22:20:52,993 - MPKMini - INFO - Normalized value: 0.76
+2024-11-25 22:20:53,006 - MPKMini - INFO - spotify.exe volume set to 76%
+2024-11-25 22:20:53,007 - MPKMini - INFO - Received knob CC: 2, value: 98
+2024-11-25 22:20:53,007 - MPKMini - INFO - Normalized value: 0.77
+2024-11-25 22:20:53,020 - MPKMini - INFO - spotify.exe volume set to 77%
+2024-11-25 22:20:53,021 - MPKMini - INFO - Received knob CC: 2, value: 99
+2024-11-25 22:20:53,021 - MPKMini - INFO - Normalized value: 0.78
+2024-11-25 22:20:53,034 - MPKMini - INFO - spotify.exe volume set to 78%
+2024-11-25 22:20:53,034 - MPKMini - INFO - Received knob CC: 2, value: 100
+2024-11-25 22:20:53,035 - MPKMini - INFO - Normalized value: 0.79
+2024-11-25 22:20:53,047 - MPKMini - INFO - spotify.exe volume set to 79%
+2024-11-25 22:20:53,048 - MPKMini - INFO - Received knob CC: 2, value: 101
+2024-11-25 22:20:53,048 - MPKMini - INFO - Normalized value: 0.80
+2024-11-25 22:20:53,060 - MPKMini - INFO - spotify.exe volume set to 80%
+2024-11-25 22:20:53,061 - MPKMini - INFO - Received knob CC: 2, value: 103
+2024-11-25 22:20:53,061 - MPKMini - INFO - Normalized value: 0.81
+2024-11-25 22:20:53,074 - MPKMini - INFO - spotify.exe volume set to 81%
+2024-11-25 22:20:53,075 - MPKMini - INFO - Received knob CC: 2, value: 104
+2024-11-25 22:20:53,075 - MPKMini - INFO - Normalized value: 0.82
+2024-11-25 22:20:53,088 - MPKMini - INFO - spotify.exe volume set to 82%
+2024-11-25 22:20:53,088 - MPKMini - INFO - Received knob CC: 2, value: 105
+2024-11-25 22:20:53,089 - MPKMini - INFO - Normalized value: 0.83
+2024-11-25 22:20:53,102 - MPKMini - INFO - spotify.exe volume set to 83%
+2024-11-25 22:20:53,104 - MPKMini - INFO - Received knob CC: 2, value: 107
+2024-11-25 22:20:53,104 - MPKMini - INFO - Normalized value: 0.84
+2024-11-25 22:20:53,117 - MPKMini - INFO - spotify.exe volume set to 84%
+2024-11-25 22:20:53,118 - MPKMini - INFO - Received knob CC: 2, value: 108
+2024-11-25 22:20:53,118 - MPKMini - INFO - Normalized value: 0.85
+2024-11-25 22:20:53,130 - MPKMini - INFO - spotify.exe volume set to 85%
+2024-11-25 22:20:53,131 - MPKMini - INFO - Received knob CC: 2, value: 109
+2024-11-25 22:20:53,131 - MPKMini - INFO - Normalized value: 0.86
+2024-11-25 22:20:53,144 - MPKMini - INFO - spotify.exe volume set to 86%
+2024-11-25 22:20:53,144 - MPKMini - INFO - Received knob CC: 2, value: 110
+2024-11-25 22:20:53,144 - MPKMini - INFO - Normalized value: 0.87
+2024-11-25 22:20:53,159 - MPKMini - INFO - spotify.exe volume set to 87%
+2024-11-25 22:20:53,159 - MPKMini - INFO - Received knob CC: 2, value: 111
+2024-11-25 22:20:53,160 - MPKMini - INFO - Normalized value: 0.87
+2024-11-25 22:20:53,172 - MPKMini - INFO - spotify.exe volume set to 87%
+2024-11-25 22:20:53,172 - MPKMini - INFO - Received knob CC: 2, value: 112
+2024-11-25 22:20:53,173 - MPKMini - INFO - Normalized value: 0.88
+2024-11-25 22:20:53,192 - MPKMini - INFO - spotify.exe volume set to 88%
+2024-11-25 22:20:53,193 - MPKMini - INFO - Received knob CC: 2, value: 113
+2024-11-25 22:20:53,193 - MPKMini - INFO - Normalized value: 0.89
+2024-11-25 22:20:53,205 - MPKMini - INFO - spotify.exe volume set to 89%
+2024-11-25 22:20:53,206 - MPKMini - INFO - Received knob CC: 2, value: 114
+2024-11-25 22:20:53,206 - MPKMini - INFO - Normalized value: 0.90
+2024-11-25 22:20:53,219 - MPKMini - INFO - spotify.exe volume set to 90%
+2024-11-25 22:20:53,219 - MPKMini - INFO - Received knob CC: 2, value: 115
+2024-11-25 22:20:53,220 - MPKMini - INFO - Normalized value: 0.91
+2024-11-25 22:20:53,232 - MPKMini - INFO - spotify.exe volume set to 91%
+2024-11-25 22:20:53,233 - MPKMini - INFO - Received knob CC: 2, value: 116
+2024-11-25 22:20:53,233 - MPKMini - INFO - Normalized value: 0.91
+2024-11-25 22:20:53,246 - MPKMini - INFO - spotify.exe volume set to 91%
+2024-11-25 22:20:53,248 - MPKMini - INFO - Received knob CC: 2, value: 117
+2024-11-25 22:20:53,249 - MPKMini - INFO - Normalized value: 0.92
+2024-11-25 22:20:53,263 - MPKMini - INFO - spotify.exe volume set to 92%
+2024-11-25 22:20:53,263 - MPKMini - INFO - Received knob CC: 2, value: 118
+2024-11-25 22:20:53,264 - MPKMini - INFO - Normalized value: 0.93
+2024-11-25 22:20:53,276 - MPKMini - INFO - spotify.exe volume set to 93%
+2024-11-25 22:20:53,277 - MPKMini - INFO - Received knob CC: 2, value: 119
+2024-11-25 22:20:53,277 - MPKMini - INFO - Normalized value: 0.94
+2024-11-25 22:20:53,290 - MPKMini - INFO - spotify.exe volume set to 94%
+2024-11-25 22:20:53,291 - MPKMini - INFO - Received knob CC: 2, value: 121
+2024-11-25 22:20:53,291 - MPKMini - INFO - Normalized value: 0.95
+2024-11-25 22:20:53,306 - MPKMini - INFO - spotify.exe volume set to 95%
+2024-11-25 22:20:53,306 - MPKMini - INFO - Received knob CC: 2, value: 122
+2024-11-25 22:20:53,307 - MPKMini - INFO - Normalized value: 0.96
+2024-11-25 22:20:53,325 - MPKMini - INFO - spotify.exe volume set to 96%
+2024-11-25 22:20:53,325 - MPKMini - INFO - Received knob CC: 2, value: 124
+2024-11-25 22:20:53,326 - MPKMini - INFO - Normalized value: 0.98
+2024-11-25 22:20:53,341 - MPKMini - INFO - spotify.exe volume set to 98%
+2024-11-25 22:20:53,341 - MPKMini - INFO - Received knob CC: 2, value: 125
+2024-11-25 22:20:53,342 - MPKMini - INFO - Normalized value: 0.98
+2024-11-25 22:20:53,357 - MPKMini - INFO - spotify.exe volume set to 98%
+2024-11-25 22:20:53,358 - MPKMini - INFO - Received knob CC: 2, value: 126
+2024-11-25 22:20:53,358 - MPKMini - INFO - Normalized value: 0.99
+2024-11-25 22:20:53,372 - MPKMini - INFO - spotify.exe volume set to 99%
+2024-11-25 22:20:53,373 - MPKMini - INFO - Received knob CC: 2, value: 127
+2024-11-25 22:20:53,373 - MPKMini - INFO - Normalized value: 1.00
+2024-11-25 22:20:53,387 - MPKMini - INFO - spotify.exe volume set to 100%
+2024-11-25 22:20:55,849 - MPKMini - INFO - Received knob CC: 1, value: 48
+2024-11-25 22:20:55,849 - MPKMini - INFO - Normalized value: 0.38
+2024-11-25 22:20:55,853 - MPKMini - INFO - System volume set to 38%
+2024-11-25 22:20:55,871 - MPKMini - INFO - Received knob CC: 1, value: 49
+2024-11-25 22:20:55,872 - MPKMini - INFO - Normalized value: 0.39
+2024-11-25 22:20:55,876 - MPKMini - INFO - System volume set to 39%
+2024-11-25 22:20:55,900 - MPKMini - INFO - Received knob CC: 1, value: 50
+2024-11-25 22:20:55,901 - MPKMini - INFO - Normalized value: 0.39
+2024-11-25 22:20:55,904 - MPKMini - INFO - System volume set to 39%
+2024-11-25 22:20:55,970 - MPKMini - INFO - Received knob CC: 1, value: 51
+2024-11-25 22:20:55,970 - MPKMini - INFO - Normalized value: 0.40
+2024-11-25 22:20:55,974 - MPKMini - INFO - System volume set to 40%
+2024-11-25 22:20:58,585 - MPKMini - INFO - Received knob CC: 3, value: 22
+2024-11-25 22:20:58,586 - MPKMini - INFO - Normalized value: 0.17
+2024-11-25 22:20:58,597 - MPKMini - WARNING - firefox.exe not found
+2024-11-25 22:20:58,604 - MPKMini - INFO - Received knob CC: 3, value: 23
+2024-11-25 22:20:58,604 - MPKMini - INFO - Normalized value: 0.18
+2024-11-25 22:20:58,616 - MPKMini - WARNING - firefox.exe not found
+2024-11-25 22:20:58,633 - MPKMini - INFO - Received knob CC: 3, value: 25
+2024-11-25 22:20:58,634 - MPKMini - INFO - Normalized value: 0.20
+2024-11-25 22:20:58,646 - MPKMini - WARNING - firefox.exe not found
+2024-11-25 22:20:58,647 - MPKMini - INFO - Received knob CC: 3, value: 26
+2024-11-25 22:20:58,648 - MPKMini - INFO - Normalized value: 0.20
+2024-11-25 22:20:58,660 - MPKMini - WARNING - firefox.exe not found
+2024-11-25 22:20:58,684 - MPKMini - INFO - Received knob CC: 3, value: 27
+2024-11-25 22:20:58,685 - MPKMini - INFO - Normalized value: 0.21
+2024-11-25 22:20:58,696 - MPKMini - WARNING - firefox.exe not found
+2024-11-25 22:20:58,740 - MPKMini - INFO - Received knob CC: 3, value: 28
+2024-11-25 22:20:58,740 - MPKMini - INFO - Normalized value: 0.22
+2024-11-25 22:20:58,753 - MPKMini - WARNING - firefox.exe not found
+2024-11-25 22:20:58,772 - MPKMini - INFO - Received knob CC: 3, value: 29
+2024-11-25 22:20:58,772 - MPKMini - INFO - Normalized value: 0.23
+2024-11-25 22:20:58,787 - MPKMini - WARNING - firefox.exe not found
+2024-11-25 22:20:58,830 - MPKMini - INFO - Received knob CC: 3, value: 30
+2024-11-25 22:20:58,830 - MPKMini - INFO - Normalized value: 0.24
+2024-11-25 22:20:58,841 - MPKMini - WARNING - firefox.exe not found
+2024-11-25 22:20:58,877 - MPKMini - INFO - Received knob CC: 3, value: 31
+2024-11-25 22:20:58,878 - MPKMini - INFO - Normalized value: 0.24
+2024-11-25 22:20:58,891 - MPKMini - WARNING - firefox.exe not found
+2024-11-25 22:20:58,987 - MPKMini - INFO - Received knob CC: 3, value: 32
+2024-11-25 22:20:58,988 - MPKMini - INFO - Normalized value: 0.25
+2024-11-25 22:20:59,000 - MPKMini - WARNING - firefox.exe not found
+2024-11-25 22:21:06,028 - MPKMini - INFO - Received knob CC: 4, value: 32
+2024-11-25 22:21:06,029 - MPKMini - INFO - Normalized value: 0.25
+2024-11-25 22:21:06,029 - MPKMini - INFO - Setting brightness to 25%
+2024-11-25 22:21:06,052 - MPKMini - INFO - Successfully set brightness to 25%
+2024-11-25 22:21:06,053 - MPKMini - INFO - Received knob CC: 4, value: 31
+2024-11-25 22:21:06,053 - MPKMini - INFO - Normalized value: 0.24
+2024-11-25 22:21:06,054 - MPKMini - INFO - Setting brightness to 24%
+2024-11-25 22:21:06,069 - MPKMini - INFO - Successfully set brightness to 24%
+2024-11-25 22:21:06,070 - MPKMini - INFO - Received knob CC: 4, value: 29
+2024-11-25 22:21:06,070 - MPKMini - INFO - Normalized value: 0.23
+2024-11-25 22:21:06,070 - MPKMini - INFO - Setting brightness to 22%
+2024-11-25 22:21:06,085 - MPKMini - INFO - Successfully set brightness to 22%
+2024-11-25 22:21:06,087 - MPKMini - INFO - Received knob CC: 4, value: 28
+2024-11-25 22:21:06,087 - MPKMini - INFO - Normalized value: 0.22
+2024-11-25 22:21:06,087 - MPKMini - INFO - Setting brightness to 22%
+2024-11-25 22:21:06,101 - MPKMini - INFO - Successfully set brightness to 22%
+2024-11-25 22:21:06,102 - MPKMini - INFO - Received knob CC: 4, value: 27
+2024-11-25 22:21:06,102 - MPKMini - INFO - Normalized value: 0.21
+2024-11-25 22:21:06,103 - MPKMini - INFO - Setting brightness to 21%
+2024-11-25 22:21:06,117 - MPKMini - INFO - Successfully set brightness to 21%
+2024-11-25 22:21:06,117 - MPKMini - INFO - Received knob CC: 4, value: 25
+2024-11-25 22:21:06,118 - MPKMini - INFO - Normalized value: 0.20
+2024-11-25 22:21:06,118 - MPKMini - INFO - Setting brightness to 19%
+2024-11-25 22:21:06,132 - MPKMini - INFO - Successfully set brightness to 19%
+2024-11-25 22:21:06,134 - MPKMini - INFO - Received knob CC: 4, value: 24
+2024-11-25 22:21:06,134 - MPKMini - INFO - Normalized value: 0.19
+2024-11-25 22:21:06,135 - MPKMini - INFO - Setting brightness to 18%
+2024-11-25 22:21:06,153 - MPKMini - INFO - Successfully set brightness to 18%
+2024-11-25 22:21:06,154 - MPKMini - INFO - Received knob CC: 4, value: 23
+2024-11-25 22:21:06,155 - MPKMini - INFO - Normalized value: 0.18
+2024-11-25 22:21:06,155 - MPKMini - INFO - Setting brightness to 18%
+2024-11-25 22:21:06,176 - MPKMini - INFO - Successfully set brightness to 18%
+2024-11-25 22:21:06,178 - MPKMini - INFO - Received knob CC: 4, value: 22
+2024-11-25 22:21:06,178 - MPKMini - INFO - Normalized value: 0.17
+2024-11-25 22:21:06,179 - MPKMini - INFO - Setting brightness to 17%
+2024-11-25 22:21:06,195 - MPKMini - INFO - Successfully set brightness to 17%
+2024-11-25 22:21:06,197 - MPKMini - INFO - Received knob CC: 4, value: 21
+2024-11-25 22:21:06,197 - MPKMini - INFO - Normalized value: 0.17
+2024-11-25 22:21:06,197 - MPKMini - INFO - Setting brightness to 16%
+2024-11-25 22:21:06,215 - MPKMini - INFO - Successfully set brightness to 16%
+2024-11-25 22:21:06,217 - MPKMini - INFO - Received knob CC: 4, value: 20
+2024-11-25 22:21:06,218 - MPKMini - INFO - Normalized value: 0.16
+2024-11-25 22:21:06,218 - MPKMini - INFO - Setting brightness to 15%
+2024-11-25 22:21:06,233 - MPKMini - INFO - Successfully set brightness to 15%
+2024-11-25 22:21:06,235 - MPKMini - INFO - Received knob CC: 4, value: 18
+2024-11-25 22:21:06,235 - MPKMini - INFO - Normalized value: 0.14
+2024-11-25 22:21:06,235 - MPKMini - INFO - Setting brightness to 14%
+2024-11-25 22:21:06,251 - MPKMini - INFO - Successfully set brightness to 14%
+2024-11-25 22:21:06,255 - MPKMini - INFO - Received knob CC: 4, value: 17
+2024-11-25 22:21:06,255 - MPKMini - INFO - Normalized value: 0.13
+2024-11-25 22:21:06,255 - MPKMini - INFO - Setting brightness to 13%
+2024-11-25 22:21:06,271 - MPKMini - INFO - Successfully set brightness to 13%
+2024-11-25 22:21:06,273 - MPKMini - INFO - Received knob CC: 4, value: 16
+2024-11-25 22:21:06,273 - MPKMini - INFO - Normalized value: 0.13
+2024-11-25 22:21:06,273 - MPKMini - INFO - Setting brightness to 12%
+2024-11-25 22:21:06,291 - MPKMini - INFO - Successfully set brightness to 12%
+2024-11-25 22:21:06,295 - MPKMini - INFO - Received knob CC: 4, value: 15
+2024-11-25 22:21:06,295 - MPKMini - INFO - Normalized value: 0.12
+2024-11-25 22:21:06,295 - MPKMini - INFO - Setting brightness to 11%
+2024-11-25 22:21:06,310 - MPKMini - INFO - Successfully set brightness to 11%
+2024-11-25 22:21:06,313 - MPKMini - INFO - Received knob CC: 4, value: 14
+2024-11-25 22:21:06,313 - MPKMini - INFO - Normalized value: 0.11
+2024-11-25 22:21:06,313 - MPKMini - INFO - Setting brightness to 11%
+2024-11-25 22:21:06,328 - MPKMini - INFO - Successfully set brightness to 11%
+2024-11-25 22:21:06,332 - MPKMini - INFO - Received knob CC: 4, value: 13
+2024-11-25 22:21:06,332 - MPKMini - INFO - Normalized value: 0.10
+2024-11-25 22:21:06,333 - MPKMini - INFO - Setting brightness to 10%
+2024-11-25 22:21:06,346 - MPKMini - INFO - Successfully set brightness to 10%
+2024-11-25 22:21:06,358 - MPKMini - INFO - Received knob CC: 4, value: 12
+2024-11-25 22:21:06,358 - MPKMini - INFO - Normalized value: 0.09
+2024-11-25 22:21:06,358 - MPKMini - INFO - Setting brightness to 9%
+2024-11-25 22:21:06,373 - MPKMini - INFO - Successfully set brightness to 9%
+2024-11-25 22:21:06,375 - MPKMini - INFO - Received knob CC: 4, value: 11
+2024-11-25 22:21:06,376 - MPKMini - INFO - Normalized value: 0.09
+2024-11-25 22:21:06,376 - MPKMini - INFO - Setting brightness to 8%
+2024-11-25 22:21:06,391 - MPKMini - INFO - Successfully set brightness to 8%
+2024-11-25 22:21:06,397 - MPKMini - INFO - Received knob CC: 4, value: 10
+2024-11-25 22:21:06,398 - MPKMini - INFO - Normalized value: 0.08
+2024-11-25 22:21:06,398 - MPKMini - INFO - Setting brightness to 7%
+2024-11-25 22:21:06,412 - MPKMini - INFO - Successfully set brightness to 7%
+2024-11-25 22:21:06,448 - MPKMini - INFO - Received knob CC: 4, value: 9
+2024-11-25 22:21:06,449 - MPKMini - INFO - Normalized value: 0.07
+2024-11-25 22:21:06,449 - MPKMini - INFO - Setting brightness to 7%
+2024-11-25 22:21:06,463 - MPKMini - INFO - Successfully set brightness to 7%
+2024-11-25 22:21:06,474 - MPKMini - INFO - Received knob CC: 4, value: 8
+2024-11-25 22:21:06,474 - MPKMini - INFO - Normalized value: 0.06
+2024-11-25 22:21:06,474 - MPKMini - INFO - Setting brightness to 6%
+2024-11-25 22:21:06,488 - MPKMini - INFO - Successfully set brightness to 6%
+2024-11-25 22:21:06,503 - MPKMini - INFO - Received knob CC: 4, value: 7
+2024-11-25 22:21:06,504 - MPKMini - INFO - Normalized value: 0.06
+2024-11-25 22:21:06,504 - MPKMini - INFO - Setting brightness to 5%
+2024-11-25 22:21:06,518 - MPKMini - INFO - Successfully set brightness to 5%
+2024-11-25 22:21:06,547 - MPKMini - INFO - Received knob CC: 4, value: 6
+2024-11-25 22:21:06,548 - MPKMini - INFO - Normalized value: 0.05
+2024-11-25 22:21:06,548 - MPKMini - INFO - Setting brightness to 4%
+2024-11-25 22:21:06,561 - MPKMini - INFO - Successfully set brightness to 4%
+2024-11-25 22:21:06,573 - MPKMini - INFO - Received knob CC: 4, value: 5
+2024-11-25 22:21:06,574 - MPKMini - INFO - Normalized value: 0.04
+2024-11-25 22:21:06,574 - MPKMini - INFO - Setting brightness to 3%
+2024-11-25 22:21:06,587 - MPKMini - INFO - Successfully set brightness to 3%
+2024-11-25 22:21:06,589 - MPKMini - INFO - Received knob CC: 4, value: 4
+2024-11-25 22:21:06,589 - MPKMini - INFO - Normalized value: 0.03
+2024-11-25 22:21:06,589 - MPKMini - INFO - Setting brightness to 3%
+2024-11-25 22:21:06,604 - MPKMini - INFO - Successfully set brightness to 3%
+2024-11-25 22:21:06,734 - MPKMini - INFO - Received knob CC: 4, value: 3
+2024-11-25 22:21:06,734 - MPKMini - INFO - Normalized value: 0.02
+2024-11-25 22:21:06,734 - MPKMini - INFO - Setting brightness to 2%
+2024-11-25 22:21:06,747 - MPKMini - INFO - Successfully set brightness to 2%
+2024-11-25 22:21:06,773 - MPKMini - INFO - Received knob CC: 4, value: 2
+2024-11-25 22:21:06,773 - MPKMini - INFO - Normalized value: 0.02
+2024-11-25 22:21:06,773 - MPKMini - INFO - Setting brightness to 1%
+2024-11-25 22:21:06,786 - MPKMini - INFO - Successfully set brightness to 1%
+2024-11-25 22:21:06,802 - MPKMini - INFO - Received knob CC: 4, value: 1
+2024-11-25 22:21:06,802 - MPKMini - INFO - Normalized value: 0.01
+2024-11-25 22:21:06,802 - MPKMini - INFO - Setting brightness to 0%
+2024-11-25 22:21:06,815 - MPKMini - INFO - Successfully set brightness to 0%
+2024-11-25 22:21:06,820 - MPKMini - INFO - Received knob CC: 4, value: 0
+2024-11-25 22:21:06,821 - MPKMini - INFO - Normalized value: 0.00
+2024-11-25 22:21:06,821 - MPKMini - INFO - Setting brightness to 0%
+2024-11-25 22:21:06,834 - MPKMini - INFO - Successfully set brightness to 0%
+2024-11-25 22:21:08,506 - MPKMini - INFO - Received knob CC: 4, value: 1
+2024-11-25 22:21:08,507 - MPKMini - INFO - Normalized value: 0.01
+2024-11-25 22:21:08,507 - MPKMini - INFO - Setting brightness to 0%
+2024-11-25 22:21:08,522 - MPKMini - INFO - Successfully set brightness to 0%
+2024-11-25 22:21:08,547 - MPKMini - INFO - Received knob CC: 4, value: 3
+2024-11-25 22:21:08,547 - MPKMini - INFO - Normalized value: 0.02
+2024-11-25 22:21:08,547 - MPKMini - INFO - Setting brightness to 2%
+2024-11-25 22:21:08,561 - MPKMini - INFO - Successfully set brightness to 2%
+2024-11-25 22:21:08,787 - MPKMini - INFO - Received knob CC: 4, value: 4
+2024-11-25 22:21:08,788 - MPKMini - INFO - Normalized value: 0.03
+2024-11-25 22:21:08,788 - MPKMini - INFO - Setting brightness to 3%
+2024-11-25 22:21:08,811 - MPKMini - INFO - Successfully set brightness to 3%
+2024-11-25 22:21:08,813 - MPKMini - INFO - Received knob CC: 4, value: 5
+2024-11-25 22:21:08,813 - MPKMini - INFO - Normalized value: 0.04
+2024-11-25 22:21:08,813 - MPKMini - INFO - Setting brightness to 3%
+2024-11-25 22:21:08,824 - MPKMini - INFO - Successfully set brightness to 3%
+2024-11-25 22:21:08,934 - MPKMini - INFO - Received knob CC: 4, value: 6
+2024-11-25 22:21:08,934 - MPKMini - INFO - Normalized value: 0.05
+2024-11-25 22:21:08,934 - MPKMini - INFO - Setting brightness to 4%
+2024-11-25 22:21:08,946 - MPKMini - INFO - Successfully set brightness to 4%
+2024-11-25 22:21:08,947 - MPKMini - INFO - Received knob CC: 4, value: 7
+2024-11-25 22:21:08,948 - MPKMini - INFO - Normalized value: 0.06
+2024-11-25 22:21:08,948 - MPKMini - INFO - Setting brightness to 5%
+2024-11-25 22:21:08,961 - MPKMini - INFO - Successfully set brightness to 5%
+2024-11-25 22:21:09,100 - MPKMini - INFO - Received knob CC: 4, value: 8
+2024-11-25 22:21:09,101 - MPKMini - INFO - Normalized value: 0.06
+2024-11-25 22:21:09,101 - MPKMini - INFO - Setting brightness to 6%
+2024-11-25 22:21:09,113 - MPKMini - INFO - Successfully set brightness to 6%
+2024-11-25 22:21:09,195 - MPKMini - INFO - Received knob CC: 4, value: 9
+2024-11-25 22:21:09,195 - MPKMini - INFO - Normalized value: 0.07
+2024-11-25 22:21:09,196 - MPKMini - INFO - Setting brightness to 7%
+2024-11-25 22:21:09,209 - MPKMini - INFO - Successfully set brightness to 7%
+2024-11-25 22:21:09,425 - MPKMini - INFO - Received knob CC: 4, value: 10
+2024-11-25 22:21:09,425 - MPKMini - INFO - Normalized value: 0.08
+2024-11-25 22:21:09,426 - MPKMini - INFO - Setting brightness to 7%
+2024-11-25 22:21:09,437 - MPKMini - INFO - Successfully set brightness to 7%
+2024-11-25 22:21:09,539 - MPKMini - INFO - Received knob CC: 4, value: 11
+2024-11-25 22:21:09,540 - MPKMini - INFO - Normalized value: 0.09
+2024-11-25 22:21:09,540 - MPKMini - INFO - Setting brightness to 8%
+2024-11-25 22:21:09,551 - MPKMini - INFO - Successfully set brightness to 8%
+2024-11-25 22:21:09,640 - MPKMini - INFO - Received knob CC: 4, value: 12
+2024-11-25 22:21:09,641 - MPKMini - INFO - Normalized value: 0.09
+2024-11-25 22:21:09,641 - MPKMini - INFO - Setting brightness to 9%
+2024-11-25 22:21:09,654 - MPKMini - INFO - Successfully set brightness to 9%
+2024-11-25 22:21:10,174 - MPKMini - INFO - Received knob CC: 4, value: 13
+2024-11-25 22:21:10,174 - MPKMini - INFO - Normalized value: 0.10
+2024-11-25 22:21:10,174 - MPKMini - INFO - Setting brightness to 10%
+2024-11-25 22:21:10,185 - MPKMini - INFO - Successfully set brightness to 10%
+2024-11-25 22:21:10,210 - MPKMini - INFO - Received knob CC: 4, value: 14
+2024-11-25 22:21:10,210 - MPKMini - INFO - Normalized value: 0.11
+2024-11-25 22:21:10,211 - MPKMini - INFO - Setting brightness to 11%
+2024-11-25 22:21:10,222 - MPKMini - INFO - Successfully set brightness to 11%
+2024-11-25 22:21:10,283 - MPKMini - INFO - Received knob CC: 4, value: 15
+2024-11-25 22:21:10,284 - MPKMini - INFO - Normalized value: 0.12
+2024-11-25 22:21:10,284 - MPKMini - INFO - Setting brightness to 11%
+2024-11-25 22:21:10,295 - MPKMini - INFO - Successfully set brightness to 11%
+2024-11-25 22:21:11,852 - MPKMini - INFO - Received knob CC: 1, value: 62
+2024-11-25 22:21:11,853 - MPKMini - INFO - Normalized value: 0.49
+2024-11-25 22:21:11,857 - MPKMini - INFO - System volume set to 49%
+2024-11-25 22:21:11,859 - MPKMini - INFO - Received knob CC: 1, value: 58
+2024-11-25 22:21:11,859 - MPKMini - INFO - Normalized value: 0.46
+2024-11-25 22:21:11,864 - MPKMini - INFO - System volume set to 46%
+2024-11-25 22:21:11,864 - MPKMini - INFO - Received knob CC: 1, value: 52
+2024-11-25 22:21:11,864 - MPKMini - INFO - Normalized value: 0.41
+2024-11-25 22:21:11,871 - MPKMini - INFO - System volume set to 41%
+2024-11-25 22:21:11,873 - MPKMini - INFO - Received knob CC: 1, value: 48
+2024-11-25 22:21:11,873 - MPKMini - INFO - Normalized value: 0.38
+2024-11-25 22:21:11,878 - MPKMini - INFO - System volume set to 38%
+2024-11-25 22:21:11,879 - MPKMini - INFO - Received knob CC: 1, value: 44
+2024-11-25 22:21:11,879 - MPKMini - INFO - Normalized value: 0.35
+2024-11-25 22:21:11,886 - MPKMini - INFO - System volume set to 35%
+2024-11-25 22:21:11,887 - MPKMini - INFO - Received knob CC: 1, value: 40
+2024-11-25 22:21:11,887 - MPKMini - INFO - Normalized value: 0.31
+2024-11-25 22:21:11,893 - MPKMini - INFO - System volume set to 31%
+2024-11-25 22:21:11,895 - MPKMini - INFO - Received knob CC: 1, value: 36
+2024-11-25 22:21:11,895 - MPKMini - INFO - Normalized value: 0.28
+2024-11-25 22:21:11,901 - MPKMini - INFO - System volume set to 28%
+2024-11-25 22:21:11,902 - MPKMini - INFO - Received knob CC: 1, value: 30
+2024-11-25 22:21:11,902 - MPKMini - INFO - Normalized value: 0.24
+2024-11-25 22:21:11,907 - MPKMini - INFO - System volume set to 24%
+2024-11-25 22:21:11,909 - MPKMini - INFO - Received knob CC: 1, value: 24
+2024-11-25 22:21:11,909 - MPKMini - INFO - Normalized value: 0.19
+2024-11-25 22:21:11,916 - MPKMini - INFO - System volume set to 19%
+2024-11-25 22:21:11,917 - MPKMini - INFO - Received knob CC: 1, value: 17
+2024-11-25 22:21:11,918 - MPKMini - INFO - Normalized value: 0.13
+2024-11-25 22:21:11,925 - MPKMini - INFO - System volume set to 13%
+2024-11-25 22:21:11,926 - MPKMini - INFO - Received knob CC: 1, value: 10
+2024-11-25 22:21:11,926 - MPKMini - INFO - Normalized value: 0.08
+2024-11-25 22:21:11,932 - MPKMini - INFO - System volume set to 8%
+2024-11-25 22:21:11,933 - MPKMini - INFO - Received knob CC: 1, value: 4
+2024-11-25 22:21:11,933 - MPKMini - INFO - Normalized value: 0.03
+2024-11-25 22:21:11,938 - MPKMini - INFO - System volume set to 3%
+2024-11-25 22:21:11,940 - MPKMini - INFO - Received knob CC: 1, value: 0
+2024-11-25 22:21:11,940 - MPKMini - INFO - Normalized value: 0.00
+2024-11-25 22:21:11,947 - MPKMini - INFO - System volume set to 0%
+2024-11-25 22:21:12,031 - MPKMini - INFO - Received knob CC: 1, value: 2
+2024-11-25 22:21:12,031 - MPKMini - INFO - Normalized value: 0.02
+2024-11-25 22:21:12,036 - MPKMini - INFO - System volume set to 2%
+2024-11-25 22:21:12,037 - MPKMini - INFO - Received knob CC: 1, value: 5
+2024-11-25 22:21:12,038 - MPKMini - INFO - Normalized value: 0.04
+2024-11-25 22:21:12,044 - MPKMini - INFO - System volume set to 4%
+2024-11-25 22:21:12,045 - MPKMini - INFO - Received knob CC: 1, value: 10
+2024-11-25 22:21:12,045 - MPKMini - INFO - Normalized value: 0.08
+2024-11-25 22:21:12,051 - MPKMini - INFO - System volume set to 8%
+2024-11-25 22:21:12,053 - MPKMini - INFO - Received knob CC: 1, value: 15
+2024-11-25 22:21:12,054 - MPKMini - INFO - Normalized value: 0.12
+2024-11-25 22:21:12,059 - MPKMini - INFO - System volume set to 12%
+2024-11-25 22:21:12,060 - MPKMini - INFO - Received knob CC: 1, value: 22
+2024-11-25 22:21:12,060 - MPKMini - INFO - Normalized value: 0.17
+2024-11-25 22:21:12,068 - MPKMini - INFO - System volume set to 17%
+2024-11-25 22:21:12,069 - MPKMini - INFO - Received knob CC: 1, value: 29
+2024-11-25 22:21:12,070 - MPKMini - INFO - Normalized value: 0.23
+2024-11-25 22:21:12,077 - MPKMini - INFO - System volume set to 23%
+2024-11-25 22:21:12,078 - MPKMini - INFO - Received knob CC: 1, value: 38
+2024-11-25 22:21:12,079 - MPKMini - INFO - Normalized value: 0.30
+2024-11-25 22:21:12,087 - MPKMini - INFO - System volume set to 30%
+2024-11-25 22:21:12,090 - MPKMini - INFO - Received knob CC: 1, value: 47
+2024-11-25 22:21:12,091 - MPKMini - INFO - Normalized value: 0.37
+2024-11-25 22:21:12,100 - MPKMini - INFO - System volume set to 37%
+2024-11-25 22:21:12,101 - MPKMini - INFO - Received knob CC: 1, value: 56
+2024-11-25 22:21:12,101 - MPKMini - INFO - Normalized value: 0.44
+2024-11-25 22:21:12,108 - MPKMini - INFO - System volume set to 44%
+2024-11-25 22:21:12,109 - MPKMini - INFO - Received knob CC: 1, value: 61
+2024-11-25 22:21:12,110 - MPKMini - INFO - Normalized value: 0.48
+2024-11-25 22:21:12,116 - MPKMini - INFO - System volume set to 48%
+2024-11-25 22:21:12,117 - MPKMini - INFO - Received knob CC: 1, value: 64
+2024-11-25 22:21:12,118 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:21:12,126 - MPKMini - INFO - System volume set to 50%
+2024-11-25 22:21:13,045 - MPKMini - INFO - Received knob CC: 1, value: 66
+2024-11-25 22:21:13,045 - MPKMini - INFO - Normalized value: 0.52
+2024-11-25 22:21:13,048 - MPKMini - INFO - System volume set to 52%
+2024-11-25 22:21:13,050 - MPKMini - INFO - Received knob CC: 1, value: 69
+2024-11-25 22:21:13,051 - MPKMini - INFO - Normalized value: 0.54
+2024-11-25 22:21:13,055 - MPKMini - INFO - System volume set to 54%
+2024-11-25 22:21:13,057 - MPKMini - INFO - Received knob CC: 1, value: 73
+2024-11-25 22:21:13,057 - MPKMini - INFO - Normalized value: 0.57
+2024-11-25 22:21:13,063 - MPKMini - INFO - System volume set to 57%
+2024-11-25 22:21:13,064 - MPKMini - INFO - Received knob CC: 1, value: 79
+2024-11-25 22:21:13,064 - MPKMini - INFO - Normalized value: 0.62
+2024-11-25 22:21:13,070 - MPKMini - INFO - System volume set to 62%
+2024-11-25 22:21:13,072 - MPKMini - INFO - Received knob CC: 1, value: 83
+2024-11-25 22:21:13,072 - MPKMini - INFO - Normalized value: 0.65
+2024-11-25 22:21:13,081 - MPKMini - INFO - System volume set to 65%
+2024-11-25 22:21:13,082 - MPKMini - INFO - Received knob CC: 1, value: 87
+2024-11-25 22:21:13,082 - MPKMini - INFO - Normalized value: 0.69
+2024-11-25 22:21:13,088 - MPKMini - INFO - System volume set to 69%
+2024-11-25 22:21:13,089 - MPKMini - INFO - Received knob CC: 1, value: 90
+2024-11-25 22:21:13,089 - MPKMini - INFO - Normalized value: 0.71
+2024-11-25 22:21:13,094 - MPKMini - INFO - System volume set to 71%
+2024-11-25 22:21:13,095 - MPKMini - INFO - Received knob CC: 1, value: 95
+2024-11-25 22:21:13,096 - MPKMini - INFO - Normalized value: 0.75
+2024-11-25 22:21:13,103 - MPKMini - INFO - System volume set to 75%
+2024-11-25 22:21:13,105 - MPKMini - INFO - Received knob CC: 1, value: 100
+2024-11-25 22:21:13,105 - MPKMini - INFO - Normalized value: 0.79
+2024-11-25 22:21:13,112 - MPKMini - INFO - System volume set to 79%
+2024-11-25 22:21:13,113 - MPKMini - INFO - Received knob CC: 1, value: 107
+2024-11-25 22:21:13,114 - MPKMini - INFO - Normalized value: 0.84
+2024-11-25 22:21:13,122 - MPKMini - INFO - System volume set to 84%
+2024-11-25 22:21:13,123 - MPKMini - INFO - Received knob CC: 1, value: 114
+2024-11-25 22:21:13,123 - MPKMini - INFO - Normalized value: 0.90
+2024-11-25 22:21:13,128 - MPKMini - INFO - System volume set to 90%
+2024-11-25 22:21:13,129 - MPKMini - INFO - Received knob CC: 1, value: 121
+2024-11-25 22:21:13,130 - MPKMini - INFO - Normalized value: 0.95
+2024-11-25 22:21:13,135 - MPKMini - INFO - System volume set to 95%
+2024-11-25 22:21:13,136 - MPKMini - INFO - Received knob CC: 1, value: 127
+2024-11-25 22:21:13,136 - MPKMini - INFO - Normalized value: 1.00
+2024-11-25 22:21:13,144 - MPKMini - INFO - System volume set to 100%
+2024-11-25 22:21:13,225 - MPKMini - INFO - Received knob CC: 1, value: 124
+2024-11-25 22:21:13,225 - MPKMini - INFO - Normalized value: 0.98
+2024-11-25 22:21:13,229 - MPKMini - INFO - System volume set to 98%
+2024-11-25 22:21:13,231 - MPKMini - INFO - Received knob CC: 1, value: 105
+2024-11-25 22:21:13,231 - MPKMini - INFO - Normalized value: 0.83
+2024-11-25 22:21:13,238 - MPKMini - INFO - System volume set to 83%
+2024-11-25 22:21:13,240 - MPKMini - INFO - Received knob CC: 1, value: 65
+2024-11-25 22:21:13,240 - MPKMini - INFO - Normalized value: 0.51
+2024-11-25 22:21:13,245 - MPKMini - INFO - System volume set to 51%
+2024-11-25 22:21:13,246 - MPKMini - INFO - Received knob CC: 1, value: 64
+2024-11-25 22:21:13,247 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:21:13,253 - MPKMini - INFO - System volume set to 50%
+2024-11-25 22:21:14,092 - MPKMini - INFO - Received knob CC: 1, value: 62
+2024-11-25 22:21:14,093 - MPKMini - INFO - Normalized value: 0.49
+2024-11-25 22:21:14,097 - MPKMini - INFO - System volume set to 49%
+2024-11-25 22:21:14,098 - MPKMini - INFO - Received knob CC: 1, value: 58
+2024-11-25 22:21:14,099 - MPKMini - INFO - Normalized value: 0.46
+2024-11-25 22:21:14,104 - MPKMini - INFO - System volume set to 46%
+2024-11-25 22:21:14,106 - MPKMini - INFO - Received knob CC: 1, value: 53
+2024-11-25 22:21:14,107 - MPKMini - INFO - Normalized value: 0.42
+2024-11-25 22:21:14,113 - MPKMini - INFO - System volume set to 42%
+2024-11-25 22:21:14,114 - MPKMini - INFO - Received knob CC: 1, value: 49
+2024-11-25 22:21:14,115 - MPKMini - INFO - Normalized value: 0.39
+2024-11-25 22:21:14,121 - MPKMini - INFO - System volume set to 39%
+2024-11-25 22:21:14,122 - MPKMini - INFO - Received knob CC: 1, value: 45
+2024-11-25 22:21:14,123 - MPKMini - INFO - Normalized value: 0.35
+2024-11-25 22:21:14,131 - MPKMini - INFO - System volume set to 35%
+2024-11-25 22:21:14,134 - MPKMini - INFO - Received knob CC: 1, value: 41
+2024-11-25 22:21:14,134 - MPKMini - INFO - Normalized value: 0.32
+2024-11-25 22:21:14,139 - MPKMini - INFO - System volume set to 32%
+2024-11-25 22:21:14,141 - MPKMini - INFO - Received knob CC: 1, value: 37
+2024-11-25 22:21:14,141 - MPKMini - INFO - Normalized value: 0.29
+2024-11-25 22:21:14,149 - MPKMini - INFO - System volume set to 29%
+2024-11-25 22:21:14,150 - MPKMini - INFO - Received knob CC: 1, value: 32
+2024-11-25 22:21:14,150 - MPKMini - INFO - Normalized value: 0.25
+2024-11-25 22:21:14,157 - MPKMini - INFO - System volume set to 25%
+2024-11-25 22:21:14,158 - MPKMini - INFO - Received knob CC: 1, value: 27
+2024-11-25 22:21:14,158 - MPKMini - INFO - Normalized value: 0.21
+2024-11-25 22:21:14,169 - MPKMini - INFO - System volume set to 21%
+2024-11-25 22:21:14,169 - MPKMini - INFO - Received knob CC: 1, value: 21
+2024-11-25 22:21:14,170 - MPKMini - INFO - Normalized value: 0.17
+2024-11-25 22:21:14,176 - MPKMini - INFO - System volume set to 17%
+2024-11-25 22:21:14,177 - MPKMini - INFO - Received knob CC: 1, value: 16
+2024-11-25 22:21:14,178 - MPKMini - INFO - Normalized value: 0.13
+2024-11-25 22:21:14,187 - MPKMini - INFO - System volume set to 13%
+2024-11-25 22:21:14,188 - MPKMini - INFO - Received knob CC: 1, value: 11
+2024-11-25 22:21:14,188 - MPKMini - INFO - Normalized value: 0.09
+2024-11-25 22:21:14,194 - MPKMini - INFO - System volume set to 9%
+2024-11-25 22:21:14,196 - MPKMini - INFO - Received knob CC: 1, value: 7
+2024-11-25 22:21:14,197 - MPKMini - INFO - Normalized value: 0.06
+2024-11-25 22:21:14,203 - MPKMini - INFO - System volume set to 6%
+2024-11-25 22:21:14,204 - MPKMini - INFO - Received knob CC: 1, value: 3
+2024-11-25 22:21:14,204 - MPKMini - INFO - Normalized value: 0.02
+2024-11-25 22:21:14,212 - MPKMini - INFO - System volume set to 2%
+2024-11-25 22:21:14,212 - MPKMini - INFO - Received knob CC: 1, value: 0
+2024-11-25 22:21:14,213 - MPKMini - INFO - Normalized value: 0.00
+2024-11-25 22:21:14,220 - MPKMini - INFO - System volume set to 0%
+2024-11-25 22:21:14,223 - MPKMini - INFO - Received knob CC: 1, value: 6
+2024-11-25 22:21:14,224 - MPKMini - INFO - Normalized value: 0.05
+2024-11-25 22:21:14,232 - MPKMini - INFO - System volume set to 5%
+2024-11-25 22:21:14,234 - MPKMini - INFO - Received knob CC: 1, value: 50
+2024-11-25 22:21:14,234 - MPKMini - INFO - Normalized value: 0.39
+2024-11-25 22:21:14,240 - MPKMini - INFO - System volume set to 39%
+2024-11-25 22:21:14,241 - MPKMini - INFO - Received knob CC: 1, value: 64
+2024-11-25 22:21:14,242 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:21:14,247 - MPKMini - INFO - System volume set to 50%
+2024-11-25 22:21:14,250 - MPKMini - INFO - Received knob CC: 1, value: 79
+2024-11-25 22:21:14,250 - MPKMini - INFO - Normalized value: 0.62
+2024-11-25 22:21:14,256 - MPKMini - INFO - System volume set to 62%
+2024-11-25 22:21:14,257 - MPKMini - INFO - Received knob CC: 1, value: 64
+2024-11-25 22:21:14,258 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:21:14,266 - MPKMini - INFO - System volume set to 50%
+2024-11-25 22:21:16,587 - MPKMini - INFO - Received knob CC: 1, value: 50
+2024-11-25 22:21:16,588 - MPKMini - INFO - Normalized value: 0.39
+2024-11-25 22:21:16,592 - MPKMini - INFO - System volume set to 39%
+2024-11-25 22:21:16,609 - MPKMini - INFO - Received knob CC: 1, value: 49
+2024-11-25 22:21:16,609 - MPKMini - INFO - Normalized value: 0.39
+2024-11-25 22:21:16,613 - MPKMini - INFO - System volume set to 39%
+2024-11-25 22:21:16,639 - MPKMini - INFO - Received knob CC: 1, value: 48
+2024-11-25 22:21:16,639 - MPKMini - INFO - Normalized value: 0.38
+2024-11-25 22:21:16,644 - MPKMini - INFO - System volume set to 38%
+2024-11-25 22:21:16,646 - MPKMini - INFO - Received knob CC: 1, value: 47
+2024-11-25 22:21:16,646 - MPKMini - INFO - Normalized value: 0.37
+2024-11-25 22:21:16,651 - MPKMini - INFO - System volume set to 37%
+2024-11-25 22:21:16,675 - MPKMini - INFO - Received knob CC: 1, value: 46
+2024-11-25 22:21:16,676 - MPKMini - INFO - Normalized value: 0.36
+2024-11-25 22:21:16,681 - MPKMini - INFO - System volume set to 36%
+2024-11-25 22:21:16,708 - MPKMini - INFO - Received knob CC: 1, value: 45
+2024-11-25 22:21:16,709 - MPKMini - INFO - Normalized value: 0.35
+2024-11-25 22:21:16,713 - MPKMini - INFO - System volume set to 35%
+2024-11-25 22:21:16,718 - MPKMini - INFO - Received knob CC: 1, value: 44
+2024-11-25 22:21:16,719 - MPKMini - INFO - Normalized value: 0.35
+2024-11-25 22:21:16,722 - MPKMini - INFO - System volume set to 35%
+2024-11-25 22:21:16,745 - MPKMini - INFO - Received knob CC: 1, value: 43
+2024-11-25 22:21:16,745 - MPKMini - INFO - Normalized value: 0.34
+2024-11-25 22:21:16,750 - MPKMini - INFO - System volume set to 34%
+2024-11-25 22:21:16,807 - MPKMini - INFO - Received knob CC: 1, value: 42
+2024-11-25 22:21:16,808 - MPKMini - INFO - Normalized value: 0.33
+2024-11-25 22:21:16,812 - MPKMini - INFO - System volume set to 33%
+2024-11-25 22:21:17,218 - MPKMini - INFO - Received knob CC: 1, value: 41
+2024-11-25 22:21:17,219 - MPKMini - INFO - Normalized value: 0.32
+2024-11-25 22:21:17,223 - MPKMini - INFO - System volume set to 32%
+2024-11-25 22:21:17,813 - MPKMini - INFO - Received knob CC: 1, value: 42
+2024-11-25 22:21:17,814 - MPKMini - INFO - Normalized value: 0.33
+2024-11-25 22:21:17,817 - MPKMini - INFO - System volume set to 33%
+2024-11-25 22:21:17,919 - MPKMini - INFO - Received knob CC: 1, value: 43
+2024-11-25 22:21:17,920 - MPKMini - INFO - Normalized value: 0.34
+2024-11-25 22:21:17,923 - MPKMini - INFO - System volume set to 34%
+2024-11-25 22:21:18,599 - MPKMini - INFO - Received knob CC: 1, value: 63
+2024-11-25 22:21:18,599 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:21:18,603 - MPKMini - INFO - System volume set to 50%
+2024-11-25 22:21:18,605 - MPKMini - INFO - Received knob CC: 1, value: 59
+2024-11-25 22:21:18,605 - MPKMini - INFO - Normalized value: 0.46
+2024-11-25 22:21:18,610 - MPKMini - INFO - System volume set to 46%
+2024-11-25 22:21:18,612 - MPKMini - INFO - Received knob CC: 1, value: 55
+2024-11-25 22:21:18,612 - MPKMini - INFO - Normalized value: 0.43
+2024-11-25 22:21:18,618 - MPKMini - INFO - System volume set to 43%
+2024-11-25 22:21:18,619 - MPKMini - INFO - Received knob CC: 1, value: 51
+2024-11-25 22:21:18,619 - MPKMini - INFO - Normalized value: 0.40
+2024-11-25 22:21:18,623 - MPKMini - INFO - System volume set to 40%
+2024-11-25 22:21:18,626 - MPKMini - INFO - Received knob CC: 1, value: 48
+2024-11-25 22:21:18,627 - MPKMini - INFO - Normalized value: 0.38
+2024-11-25 22:21:18,633 - MPKMini - INFO - System volume set to 38%
+2024-11-25 22:21:18,635 - MPKMini - INFO - Received knob CC: 1, value: 44
+2024-11-25 22:21:18,635 - MPKMini - INFO - Normalized value: 0.35
+2024-11-25 22:21:18,641 - MPKMini - INFO - System volume set to 35%
+2024-11-25 22:21:18,642 - MPKMini - INFO - Received knob CC: 1, value: 41
+2024-11-25 22:21:18,643 - MPKMini - INFO - Normalized value: 0.32
+2024-11-25 22:21:18,650 - MPKMini - INFO - System volume set to 32%
+2024-11-25 22:21:18,652 - MPKMini - INFO - Received knob CC: 1, value: 37
+2024-11-25 22:21:18,652 - MPKMini - INFO - Normalized value: 0.29
+2024-11-25 22:21:18,661 - MPKMini - INFO - System volume set to 29%
+2024-11-25 22:21:18,664 - MPKMini - INFO - Received knob CC: 1, value: 32
+2024-11-25 22:21:18,664 - MPKMini - INFO - Normalized value: 0.25
+2024-11-25 22:21:18,672 - MPKMini - INFO - System volume set to 25%
+2024-11-25 22:21:18,673 - MPKMini - INFO - Received knob CC: 1, value: 26
+2024-11-25 22:21:18,673 - MPKMini - INFO - Normalized value: 0.20
+2024-11-25 22:21:18,682 - MPKMini - INFO - System volume set to 20%
+2024-11-25 22:21:18,683 - MPKMini - INFO - Received knob CC: 1, value: 19
+2024-11-25 22:21:18,683 - MPKMini - INFO - Normalized value: 0.15
+2024-11-25 22:21:18,689 - MPKMini - INFO - System volume set to 15%
+2024-11-25 22:21:18,690 - MPKMini - INFO - Received knob CC: 1, value: 12
+2024-11-25 22:21:18,690 - MPKMini - INFO - Normalized value: 0.09
+2024-11-25 22:21:18,698 - MPKMini - INFO - System volume set to 9%
+2024-11-25 22:21:18,699 - MPKMini - INFO - Received knob CC: 1, value: 7
+2024-11-25 22:21:18,699 - MPKMini - INFO - Normalized value: 0.06
+2024-11-25 22:21:18,706 - MPKMini - INFO - System volume set to 6%
+2024-11-25 22:21:18,708 - MPKMini - INFO - Received knob CC: 1, value: 2
+2024-11-25 22:21:18,709 - MPKMini - INFO - Normalized value: 0.02
+2024-11-25 22:21:18,718 - MPKMini - INFO - System volume set to 2%
+2024-11-25 22:21:18,720 - MPKMini - INFO - Received knob CC: 1, value: 0
+2024-11-25 22:21:18,720 - MPKMini - INFO - Normalized value: 0.00
+2024-11-25 22:21:18,726 - MPKMini - INFO - System volume set to 0%
+2024-11-25 22:21:18,729 - MPKMini - INFO - Received knob CC: 1, value: 23
+2024-11-25 22:21:18,729 - MPKMini - INFO - Normalized value: 0.18
+2024-11-25 22:21:18,735 - MPKMini - INFO - System volume set to 18%
+2024-11-25 22:21:18,736 - MPKMini - INFO - Received knob CC: 1, value: 55
+2024-11-25 22:21:18,736 - MPKMini - INFO - Normalized value: 0.43
+2024-11-25 22:21:18,741 - MPKMini - INFO - System volume set to 43%
+2024-11-25 22:21:18,743 - MPKMini - INFO - Received knob CC: 1, value: 64
+2024-11-25 22:21:18,743 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:21:18,750 - MPKMini - INFO - System volume set to 50%
+2024-11-25 22:21:21,633 - MPKMini - INFO - Received knob CC: 1, value: 42
+2024-11-25 22:21:21,634 - MPKMini - INFO - Normalized value: 0.33
+2024-11-25 22:21:21,638 - MPKMini - INFO - System volume set to 33%
+2024-11-25 22:21:21,652 - MPKMini - INFO - Received knob CC: 1, value: 41
+2024-11-25 22:21:21,653 - MPKMini - INFO - Normalized value: 0.32
+2024-11-25 22:21:21,656 - MPKMini - INFO - System volume set to 32%
+2024-11-25 22:21:21,666 - MPKMini - INFO - Received knob CC: 1, value: 39
+2024-11-25 22:21:21,666 - MPKMini - INFO - Normalized value: 0.31
+2024-11-25 22:21:21,670 - MPKMini - INFO - System volume set to 31%
+2024-11-25 22:21:21,688 - MPKMini - INFO - Received knob CC: 1, value: 38
+2024-11-25 22:21:21,689 - MPKMini - INFO - Normalized value: 0.30
+2024-11-25 22:21:21,693 - MPKMini - INFO - System volume set to 30%
+2024-11-25 22:21:22,784 - MPKMini - INFO - Received knob CC: 1, value: 65
+2024-11-25 22:21:22,784 - MPKMini - INFO - Normalized value: 0.51
+2024-11-25 22:21:22,787 - MPKMini - INFO - System volume set to 51%
+2024-11-25 22:21:22,789 - MPKMini - INFO - Received knob CC: 1, value: 71
+2024-11-25 22:21:22,789 - MPKMini - INFO - Normalized value: 0.56
+2024-11-25 22:21:22,795 - MPKMini - INFO - System volume set to 56%
+2024-11-25 22:21:22,797 - MPKMini - INFO - Received knob CC: 1, value: 77
+2024-11-25 22:21:22,797 - MPKMini - INFO - Normalized value: 0.61
+2024-11-25 22:21:22,802 - MPKMini - INFO - System volume set to 61%
+2024-11-25 22:21:22,803 - MPKMini - INFO - Received knob CC: 1, value: 81
+2024-11-25 22:21:22,803 - MPKMini - INFO - Normalized value: 0.64
+2024-11-25 22:21:22,809 - MPKMini - INFO - System volume set to 64%
+2024-11-25 22:21:22,811 - MPKMini - INFO - Received knob CC: 1, value: 87
+2024-11-25 22:21:22,812 - MPKMini - INFO - Normalized value: 0.69
+2024-11-25 22:21:22,818 - MPKMini - INFO - System volume set to 69%
+2024-11-25 22:21:22,819 - MPKMini - INFO - Received knob CC: 1, value: 96
+2024-11-25 22:21:22,820 - MPKMini - INFO - Normalized value: 0.76
+2024-11-25 22:21:22,828 - MPKMini - INFO - System volume set to 76%
+2024-11-25 22:21:22,828 - MPKMini - INFO - Received knob CC: 1, value: 105
+2024-11-25 22:21:22,828 - MPKMini - INFO - Normalized value: 0.83
+2024-11-25 22:21:22,833 - MPKMini - INFO - System volume set to 83%
+2024-11-25 22:21:22,834 - MPKMini - INFO - Received knob CC: 1, value: 115
+2024-11-25 22:21:22,834 - MPKMini - INFO - Normalized value: 0.91
+2024-11-25 22:21:22,839 - MPKMini - INFO - System volume set to 91%
+2024-11-25 22:21:22,842 - MPKMini - INFO - Received knob CC: 1, value: 125
+2024-11-25 22:21:22,842 - MPKMini - INFO - Normalized value: 0.98
+2024-11-25 22:21:22,848 - MPKMini - INFO - System volume set to 98%
+2024-11-25 22:21:22,849 - MPKMini - INFO - Received knob CC: 1, value: 127
+2024-11-25 22:21:22,850 - MPKMini - INFO - Normalized value: 1.00
+2024-11-25 22:21:22,855 - MPKMini - INFO - System volume set to 100%
+2024-11-25 22:21:22,878 - MPKMini - INFO - Received knob CC: 1, value: 97
+2024-11-25 22:21:22,879 - MPKMini - INFO - Normalized value: 0.76
+2024-11-25 22:21:22,884 - MPKMini - INFO - System volume set to 76%
+2024-11-25 22:21:22,886 - MPKMini - INFO - Received knob CC: 1, value: 64
+2024-11-25 22:21:22,886 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:21:22,895 - MPKMini - INFO - System volume set to 50%
+2024-11-25 22:21:22,896 - MPKMini - INFO - Received knob CC: 1, value: 63
+2024-11-25 22:21:22,896 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:21:22,904 - MPKMini - INFO - System volume set to 50%
+2024-11-25 22:21:22,906 - MPKMini - INFO - Received knob CC: 1, value: 64
+2024-11-25 22:21:22,906 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:21:22,913 - MPKMini - INFO - System volume set to 50%
+2024-11-25 22:21:24,094 - MPKMini - INFO - Received knob CC: 1, value: 65
+2024-11-25 22:21:24,094 - MPKMini - INFO - Normalized value: 0.51
+2024-11-25 22:21:24,099 - MPKMini - INFO - System volume set to 51%
+2024-11-25 22:21:24,101 - MPKMini - INFO - Received knob CC: 1, value: 67
+2024-11-25 22:21:24,101 - MPKMini - INFO - Normalized value: 0.53
+2024-11-25 22:21:24,109 - MPKMini - INFO - System volume set to 53%
+2024-11-25 22:21:24,111 - MPKMini - INFO - Received knob CC: 1, value: 68
+2024-11-25 22:21:24,112 - MPKMini - INFO - Normalized value: 0.54
+2024-11-25 22:21:24,117 - MPKMini - INFO - System volume set to 54%
+2024-11-25 22:21:24,119 - MPKMini - INFO - Received knob CC: 1, value: 71
+2024-11-25 22:21:24,119 - MPKMini - INFO - Normalized value: 0.56
+2024-11-25 22:21:24,127 - MPKMini - INFO - System volume set to 56%
+2024-11-25 22:21:24,127 - MPKMini - INFO - Received knob CC: 1, value: 74
+2024-11-25 22:21:24,128 - MPKMini - INFO - Normalized value: 0.58
+2024-11-25 22:21:24,135 - MPKMini - INFO - System volume set to 58%
+2024-11-25 22:21:24,136 - MPKMini - INFO - Received knob CC: 1, value: 76
+2024-11-25 22:21:24,136 - MPKMini - INFO - Normalized value: 0.60
+2024-11-25 22:21:24,142 - MPKMini - INFO - System volume set to 60%
+2024-11-25 22:21:24,145 - MPKMini - INFO - Received knob CC: 1, value: 77
+2024-11-25 22:21:24,145 - MPKMini - INFO - Normalized value: 0.61
+2024-11-25 22:21:24,151 - MPKMini - INFO - System volume set to 61%
+2024-11-25 22:21:24,151 - MPKMini - INFO - Received knob CC: 1, value: 79
+2024-11-25 22:21:24,152 - MPKMini - INFO - Normalized value: 0.62
+2024-11-25 22:21:24,157 - MPKMini - INFO - System volume set to 62%
+2024-11-25 22:21:24,158 - MPKMini - INFO - Received knob CC: 1, value: 80
+2024-11-25 22:21:24,159 - MPKMini - INFO - Normalized value: 0.63
+2024-11-25 22:21:24,169 - MPKMini - INFO - System volume set to 63%
+2024-11-25 22:21:24,170 - MPKMini - INFO - Received knob CC: 1, value: 83
+2024-11-25 22:21:24,170 - MPKMini - INFO - Normalized value: 0.65
+2024-11-25 22:21:24,177 - MPKMini - INFO - System volume set to 65%
+2024-11-25 22:21:24,178 - MPKMini - INFO - Received knob CC: 1, value: 84
+2024-11-25 22:21:24,178 - MPKMini - INFO - Normalized value: 0.66
+2024-11-25 22:21:24,186 - MPKMini - INFO - System volume set to 66%
+2024-11-25 22:21:24,188 - MPKMini - INFO - Received knob CC: 1, value: 85
+2024-11-25 22:21:24,188 - MPKMini - INFO - Normalized value: 0.67
+2024-11-25 22:21:24,198 - MPKMini - INFO - System volume set to 67%
+2024-11-25 22:21:24,199 - MPKMini - INFO - Received knob CC: 1, value: 87
+2024-11-25 22:21:24,199 - MPKMini - INFO - Normalized value: 0.69
+2024-11-25 22:21:24,208 - MPKMini - INFO - System volume set to 69%
+2024-11-25 22:21:24,218 - MPKMini - INFO - Received knob CC: 1, value: 86
+2024-11-25 22:21:24,218 - MPKMini - INFO - Normalized value: 0.68
+2024-11-25 22:21:24,225 - MPKMini - INFO - System volume set to 68%
+2024-11-25 22:21:24,227 - MPKMini - INFO - Received knob CC: 1, value: 84
+2024-11-25 22:21:24,227 - MPKMini - INFO - Normalized value: 0.66
+2024-11-25 22:21:24,234 - MPKMini - INFO - System volume set to 66%
+2024-11-25 22:21:24,236 - MPKMini - INFO - Received knob CC: 1, value: 81
+2024-11-25 22:21:24,237 - MPKMini - INFO - Normalized value: 0.64
+2024-11-25 22:21:24,242 - MPKMini - INFO - System volume set to 64%
+2024-11-25 22:21:24,243 - MPKMini - INFO - Received knob CC: 1, value: 80
+2024-11-25 22:21:24,244 - MPKMini - INFO - Normalized value: 0.63
+2024-11-25 22:21:24,249 - MPKMini - INFO - System volume set to 63%
+2024-11-25 22:21:24,252 - MPKMini - INFO - Received knob CC: 1, value: 78
+2024-11-25 22:21:24,252 - MPKMini - INFO - Normalized value: 0.61
+2024-11-25 22:21:24,261 - MPKMini - INFO - System volume set to 61%
+2024-11-25 22:21:24,261 - MPKMini - INFO - Received knob CC: 1, value: 76
+2024-11-25 22:21:24,262 - MPKMini - INFO - Normalized value: 0.60
+2024-11-25 22:21:24,269 - MPKMini - INFO - System volume set to 60%
+2024-11-25 22:21:24,270 - MPKMini - INFO - Received knob CC: 1, value: 75
+2024-11-25 22:21:24,271 - MPKMini - INFO - Normalized value: 0.59
+2024-11-25 22:21:24,277 - MPKMini - INFO - System volume set to 59%
+2024-11-25 22:21:24,280 - MPKMini - INFO - Received knob CC: 1, value: 71
+2024-11-25 22:21:24,280 - MPKMini - INFO - Normalized value: 0.56
+2024-11-25 22:21:24,285 - MPKMini - INFO - System volume set to 56%
+2024-11-25 22:21:24,286 - MPKMini - INFO - Received knob CC: 1, value: 66
+2024-11-25 22:21:24,287 - MPKMini - INFO - Normalized value: 0.52
+2024-11-25 22:21:24,294 - MPKMini - INFO - System volume set to 52%
+2024-11-25 22:21:24,294 - MPKMini - INFO - Received knob CC: 1, value: 64
+2024-11-25 22:21:24,294 - MPKMini - INFO - Normalized value: 0.50
+2024-11-25 22:21:24,302 - MPKMini - INFO - System volume set to 50%
+2024-11-25 22:21:26,296 - MPKMini - INFO - Received knob CC: 1, value: 37
+2024-11-25 22:21:26,296 - MPKMini - INFO - Normalized value: 0.29
+2024-11-25 22:21:26,300 - MPKMini - INFO - System volume set to 29%
+2024-11-25 22:21:26,315 - MPKMini - INFO - Received knob CC: 1, value: 35
+2024-11-25 22:21:26,316 - MPKMini - INFO - Normalized value: 0.28
+2024-11-25 22:21:26,319 - MPKMini - INFO - System volume set to 28%
+2024-11-25 22:21:26,340 - MPKMini - INFO - Received knob CC: 1, value: 34
+2024-11-25 22:21:26,341 - MPKMini - INFO - Normalized value: 0.27
+2024-11-25 22:21:26,345 - MPKMini - INFO - System volume set to 27%
+2024-11-25 22:21:26,355 - MPKMini - INFO - Received knob CC: 1, value: 33
+2024-11-25 22:21:26,355 - MPKMini - INFO - Normalized value: 0.26
+2024-11-25 22:21:26,361 - MPKMini - INFO - System volume set to 26%
+2024-11-25 22:21:26,364 - MPKMini - INFO - Received knob CC: 1, value: 32
+2024-11-25 22:21:26,364 - MPKMini - INFO - Normalized value: 0.25
+2024-11-25 22:21:26,372 - MPKMini - INFO - System volume set to 25%
+2024-11-25 22:21:26,377 - MPKMini - INFO - Received knob CC: 1, value: 31
+2024-11-25 22:21:26,377 - MPKMini - INFO - Normalized value: 0.24
+2024-11-25 22:21:26,382 - MPKMini - INFO - System volume set to 24%
+2024-11-25 22:21:26,392 - MPKMini - INFO - Received knob CC: 1, value: 30
+2024-11-25 22:21:26,392 - MPKMini - INFO - Normalized value: 0.24
+2024-11-25 22:21:26,396 - MPKMini - INFO - System volume set to 24%
+2024-11-25 22:21:26,403 - MPKMini - INFO - Received knob CC: 1, value: 29
+2024-11-25 22:21:26,403 - MPKMini - INFO - Normalized value: 0.23
+2024-11-25 22:21:26,408 - MPKMini - INFO - System volume set to 23%
+2024-11-25 22:21:26,417 - MPKMini - INFO - Received knob CC: 1, value: 27
+2024-11-25 22:21:26,418 - MPKMini - INFO - Normalized value: 0.21
+2024-11-25 22:21:26,423 - MPKMini - INFO - System volume set to 21%
+2024-11-25 22:21:26,432 - MPKMini - INFO - Received knob CC: 1, value: 26
+2024-11-25 22:21:26,432 - MPKMini - INFO - Normalized value: 0.20
+2024-11-25 22:21:26,439 - MPKMini - INFO - System volume set to 20%
+2024-11-25 22:21:26,447 - MPKMini - INFO - Received knob CC: 1, value: 25
+2024-11-25 22:21:26,448 - MPKMini - INFO - Normalized value: 0.20
+2024-11-25 22:21:26,452 - MPKMini - INFO - System volume set to 20%
+2024-11-25 22:21:26,457 - MPKMini - INFO - Received knob CC: 1, value: 24
+2024-11-25 22:21:26,458 - MPKMini - INFO - Normalized value: 0.19
+2024-11-25 22:21:26,463 - MPKMini - INFO - System volume set to 19%
+2024-11-25 22:21:26,478 - MPKMini - INFO - Received knob CC: 1, value: 23
+2024-11-25 22:21:26,479 - MPKMini - INFO - Normalized value: 0.18
+2024-11-25 22:21:26,483 - MPKMini - INFO - System volume set to 18%
+2024-11-25 22:21:27,308 - MPKMini - INFO - Received knob CC: 1, value: 24
+2024-11-25 22:21:27,308 - MPKMini - INFO - Normalized value: 0.19
+2024-11-25 22:21:27,313 - MPKMini - INFO - System volume set to 19%
+2024-11-25 22:21:27,329 - MPKMini - INFO - Received knob CC: 1, value: 25
+2024-11-25 22:21:27,329 - MPKMini - INFO - Normalized value: 0.20
+2024-11-25 22:21:27,334 - MPKMini - INFO - System volume set to 20%
+2024-11-25 22:21:27,355 - MPKMini - INFO - Received knob CC: 1, value: 26
+2024-11-25 22:21:27,356 - MPKMini - INFO - Normalized value: 0.20
+2024-11-25 22:21:27,360 - MPKMini - INFO - System volume set to 20%
+2024-11-25 22:21:27,387 - MPKMini - INFO - Received knob CC: 1, value: 27
+2024-11-25 22:21:27,388 - MPKMini - INFO - Normalized value: 0.21
+2024-11-25 22:21:27,392 - MPKMini - INFO - System volume set to 21%
+2024-11-25 22:21:27,577 - MPKMini - INFO - Received knob CC: 1, value: 28
+2024-11-25 22:21:27,577 - MPKMini - INFO - Normalized value: 0.22
+2024-11-25 22:21:27,581 - MPKMini - INFO - System volume set to 22%
+2024-11-25 22:21:28,029 - MPKMini - INFO - Received knob CC: 1, value: 29
+2024-11-25 22:21:28,030 - MPKMini - INFO - Normalized value: 0.23
+2024-11-25 22:21:28,035 - MPKMini - INFO - System volume set to 23%
+2024-11-25 22:21:28,092 - MPKMini - INFO - Received knob CC: 1, value: 30
+2024-11-25 22:21:28,093 - MPKMini - INFO - Normalized value: 0.24
+2024-11-25 22:21:28,099 - MPKMini - INFO - System volume set to 24%
+2024-11-25 22:21:28,106 - MPKMini - INFO - Received knob CC: 1, value: 31
+2024-11-25 22:21:28,107 - MPKMini - INFO - Normalized value: 0.24
+2024-11-25 22:21:28,112 - MPKMini - INFO - System volume set to 24%
+2024-11-25 22:21:28,201 - MPKMini - INFO - Received knob CC: 1, value: 32
+2024-11-25 22:21:28,202 - MPKMini - INFO - Normalized value: 0.25
+2024-11-25 22:21:28,205 - MPKMini - INFO - System volume set to 25%
+2024-11-25 22:21:28,226 - MPKMini - INFO - Received knob CC: 1, value: 33
+2024-11-25 22:21:28,227 - MPKMini - INFO - Normalized value: 0.26
+2024-11-25 22:21:28,231 - MPKMini - INFO - System volume set to 26%
+2024-11-25 22:21:28,847 - MPKMini - INFO - Received knob CC: 1, value: 34
+2024-11-25 22:21:28,847 - MPKMini - INFO - Normalized value: 0.27
+2024-11-25 22:21:28,851 - MPKMini - INFO - System volume set to 27%
+2024-11-25 22:21:28,898 - MPKMini - INFO - Received knob CC: 1, value: 35
+2024-11-25 22:21:28,899 - MPKMini - INFO - Normalized value: 0.28
+2024-11-25 22:21:28,902 - MPKMini - INFO - System volume set to 28%
+2024-11-25 22:21:28,913 - MPKMini - INFO - Received knob CC: 1, value: 36
+2024-11-25 22:21:28,913 - MPKMini - INFO - Normalized value: 0.28
+2024-11-25 22:21:28,917 - MPKMini - INFO - System volume set to 28%
+2024-11-25 22:21:28,956 - MPKMini - INFO - Received knob CC: 1, value: 37
+2024-11-25 22:21:28,957 - MPKMini - INFO - Normalized value: 0.29
+2024-11-25 22:21:28,961 - MPKMini - INFO - System volume set to 29%
+2024-11-25 22:21:29,581 - MPKMini - INFO - Received knob CC: 1, value: 39
+2024-11-25 22:21:29,581 - MPKMini - INFO - Normalized value: 0.31
+2024-11-25 22:21:29,584 - MPKMini - INFO - System volume set to 31%
+2024-11-25 22:21:29,806 - MPKMini - INFO - Received knob CC: 1, value: 40
+2024-11-25 22:21:29,807 - MPKMini - INFO - Normalized value: 0.31
+2024-11-25 22:21:29,810 - MPKMini - INFO - System volume set to 31%
+2024-11-25 22:21:30,686 - MPKMini - INFO - Received knob CC: 1, value: 41
+2024-11-25 22:21:30,687 - MPKMini - INFO - Normalized value: 0.32
+2024-11-25 22:21:30,691 - MPKMini - INFO - System volume set to 32%
+2024-11-25 22:21:30,818 - MPKMini - INFO - Received knob CC: 1, value: 42
+2024-11-25 22:21:30,818 - MPKMini - INFO - Normalized value: 0.33
+2024-11-25 22:21:30,822 - MPKMini - INFO - System volume set to 33%
+2024-11-25 22:21:31,029 - MPKMini - INFO - Received knob CC: 1, value: 43
+2024-11-25 22:21:31,029 - MPKMini - INFO - Normalized value: 0.34
+2024-11-25 22:21:31,033 - MPKMini - INFO - System volume set to 34%
+2024-11-25 22:21:36,108 - MPKMini - INFO - Next track command sent
+2024-11-25 22:21:38,121 - MPKMini - INFO - Next track command sent
+2024-11-25 22:21:40,856 - MPKMini - INFO - Next track command sent
+2024-11-25 22:32:44,278 - MPKMini - INFO - Stopping MIDI monitoring

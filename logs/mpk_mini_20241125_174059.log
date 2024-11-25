@@ -1,0 +1,59 @@
+2024-11-25 17:40:59.926 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 17:40:59.961 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 17:40:59.961 - MPKMini - INFO - Searching for Akai MPK Mini device...
+2024-11-25 17:40:59.961 - MPKMini - INFO - Found Akai MPK Mini: MPK Mini Mk II (ID: 1)
+2024-11-25 17:40:59.968 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 17:41:00.005 - MPKMini - INFO - Starting MIDI input listener...
+2024-11-25 17:41:02.015 - MPKMini - INFO - Control triggered: Unknown Note 3 (Note 3) with velocity 59
+2024-11-25 17:41:09.904 - MPKMini - INFO - Control triggered: Unknown Note 3 (Note 3) with velocity 15
+2024-11-25 17:41:11.014 - MPKMini - INFO - Control triggered: Unknown Note 3 (Note 3) with velocity 68
+2024-11-25 17:41:11.524 - MPKMini - INFO - Control triggered: Unknown Note 2 (Note 2) with velocity 35
+2024-11-25 17:41:12.687 - MPKMini - INFO - Control triggered: Unknown Note 1 (Note 1) with velocity 81
+2024-11-25 17:41:13.150 - MPKMini - INFO - Control triggered: Unknown Note 0 (Note 0) with velocity 121
+2024-11-25 17:41:18.439 - MPKMini - INFO - Control triggered: Unknown Note 12 (Note 12) with velocity 38
+2024-11-25 17:41:18.760 - MPKMini - INFO - Control triggered: Unknown Note 13 (Note 13) with velocity 39
+2024-11-25 17:41:19.113 - MPKMini - INFO - Control triggered: Unknown Note 14 (Note 14) with velocity 25
+2024-11-25 17:41:19.461 - MPKMini - INFO - Control triggered: Unknown Note 15 (Note 15) with velocity 35
+2024-11-25 17:41:21.313 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 1
+2024-11-25 17:41:21.325 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 2
+2024-11-25 17:41:21.338 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 3
+2024-11-25 17:41:21.353 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 4
+2024-11-25 17:41:21.368 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 5
+2024-11-25 17:41:21.386 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 6
+2024-11-25 17:41:21.404 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 7
+2024-11-25 17:41:21.422 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 8
+2024-11-25 17:41:21.436 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 9
+2024-11-25 17:41:21.455 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 10
+2024-11-25 17:41:21.477 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 11
+2024-11-25 17:41:21.484 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 12
+2024-11-25 17:41:21.502 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 13
+2024-11-25 17:41:21.525 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 14
+2024-11-25 17:41:21.546 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 15
+2024-11-25 17:41:21.561 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 16
+2024-11-25 17:41:21.565 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 17
+2024-11-25 17:41:21.579 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 18
+2024-11-25 17:41:21.615 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 19
+2024-11-25 17:41:21.772 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 20
+2024-11-25 17:41:22.024 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 19
+2024-11-25 17:41:22.871 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 18
+2024-11-25 17:41:22.881 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 17
+2024-11-25 17:41:22.896 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 16
+2024-11-25 17:41:22.911 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 14
+2024-11-25 17:41:22.925 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 13
+2024-11-25 17:41:22.936 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 12
+2024-11-25 17:41:22.947 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 11
+2024-11-25 17:41:22.962 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 10
+2024-11-25 17:41:22.973 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 8
+2024-11-25 17:41:22.984 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 7
+2024-11-25 17:41:22.994 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 6
+2024-11-25 17:41:23.002 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 5
+2024-11-25 17:41:23.013 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 4
+2024-11-25 17:41:23.024 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 3
+2024-11-25 17:41:23.036 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 2
+2024-11-25 17:41:23.042 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 1
+2024-11-25 17:41:23.046 - MPKMini - INFO - Control adjusted: KNOB1 (CC 1) to value 0
+2024-11-25 17:43:54.012 - MPKMini - INFO - Received keyboard interrupt, stopping...
+2024-11-25 17:43:54.012 - MPKMini - INFO - Stopping MIDI input listener...
+2024-11-25 17:43:54.016 - MPKMini - INFO - Cleanup completed
+2024-11-25 17:43:54.016 - MPKMini - INFO - Stopping MIDI input listener...
+2024-11-25 17:43:54.016 - root - ERROR - Fatal error: pygame.midi not initialised.

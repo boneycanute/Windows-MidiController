@@ -1,0 +1,90 @@
+2024-11-25 17:47:48.096 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 17:47:48.137 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 17:47:48.137 - MPKMini - INFO - Searching for Akai MPK Mini device...
+2024-11-25 17:47:48.138 - MPKMini - INFO - Found Akai MPK Mini: MPK Mini Mk II (ID: 1)
+2024-11-25 17:47:48.144 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 17:47:51.584 - MPKMini - INFO - User mapped pad (note 3) to action: Minimize Window
+2024-11-25 17:47:52.358 - MPKMini - INFO - User mapped pad (note 2) to action: Maximize Window
+2024-11-25 17:47:53.130 - MPKMini - INFO - User mapped pad (note 1) to action: Switch Window (Alt+Tab)
+2024-11-25 17:47:53.964 - MPKMini - INFO - User mapped pad (note 0) to action: Open File Explorer
+2024-11-25 17:47:54.808 - MPKMini - INFO - User mapped pad (note 15) to action: Previous Track
+2024-11-25 17:47:55.673 - MPKMini - INFO - User mapped pad (note 14) to action: Play/Pause
+2024-11-25 17:47:56.565 - MPKMini - INFO - User mapped pad (note 13) to action: Next Track
+2024-11-25 17:47:57.627 - MPKMini - INFO - User mapped pad (note 12) to action: Show Desktop
+2024-11-25 17:47:59.983 - MPKMini - INFO - Executed action: Minimize Window
+2024-11-25 17:48:01.221 - MPKMini - INFO - Executed action: Minimize Window
+2024-11-25 17:48:02.555 - MPKMini - INFO - Executed action: Minimize Window
+2024-11-25 17:48:03.847 - MPKMini - INFO - Executed action: Minimize Window
+2024-11-25 17:48:04.360 - MPKMini - INFO - Executed action: Maximize Window
+2024-11-25 17:48:05.017 - MPKMini - INFO - Executed action: Maximize Window
+2024-11-25 17:48:05.821 - MPKMini - INFO - Executed action: Maximize Window
+2024-11-25 17:48:07.002 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:07.946 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:10.042 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:10.770 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:11.489 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:13.512 - MPKMini - INFO - Executed action: Open File Explorer
+2024-11-25 17:48:14.678 - MPKMini - INFO - Executed action: Open File Explorer
+2024-11-25 17:48:16.582 - MPKMini - INFO - Executed action: Open File Explorer
+2024-11-25 17:48:21.390 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:23.663 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:24.357 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:24.866 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:25.438 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:26.512 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:26.962 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:27.482 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:27.870 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:48:29.529 - MPKMini - INFO - Executed action: Open File Explorer
+2024-11-25 17:48:41.661 - MPKMini - INFO - Executed action: Previous Track
+2024-11-25 17:48:43.402 - MPKMini - INFO - Executed action: Play/Pause
+2024-11-25 17:48:44.863 - MPKMini - INFO - Executed action: Play/Pause
+2024-11-25 17:48:45.243 - MPKMini - INFO - Executed action: Next Track
+2024-11-25 17:48:49.362 - MPKMini - INFO - Executed action: Next Track
+2024-11-25 17:48:51.519 - MPKMini - INFO - Executed action: Next Track
+2024-11-25 17:49:35.128 - MPKMini - INFO - Executed action: Next Track
+2024-11-25 17:49:36.944 - MPKMini - INFO - Executed action: Show Desktop
+2024-11-25 17:49:39.894 - MPKMini - INFO - Executed action: Show Desktop
+2024-11-25 17:49:41.473 - MPKMini - INFO - Executed action: Show Desktop
+2024-11-25 17:49:55.130 - MPKMini - INFO - Executed action: Open File Explorer
+2024-11-25 17:49:59.868 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:50:01.748 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:50:16.683 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:50:17.916 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:50:18.470 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:50:26.655 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:50:28.661 - MPKMini - INFO - Executed action: Maximize Window
+2024-11-25 17:50:31.050 - MPKMini - INFO - Executed action: Minimize Window
+2024-11-25 17:50:32.021 - MPKMini - INFO - Executed action: Minimize Window
+2024-11-25 17:50:34.002 - MPKMini - INFO - Executed action: Minimize Window
+2024-11-25 17:50:35.554 - MPKMini - INFO - Executed action: Minimize Window
+2024-11-25 17:50:37.897 - MPKMini - INFO - Executed action: Maximize Window
+2024-11-25 17:50:39.465 - MPKMini - INFO - Executed action: Maximize Window
+2024-11-25 17:50:39.595 - MPKMini - INFO - Executed action: Maximize Window
+2024-11-25 17:50:43.724 - MPKMini - INFO - Executed action: Open File Explorer
+2024-11-25 17:51:25.955 - MPKMini - INFO - Executed action: Next Track
+2024-11-25 17:51:28.395 - MPKMini - INFO - Executed action: Play/Pause
+2024-11-25 17:51:32.165 - MPKMini - INFO - Executed action: Play/Pause
+2024-11-25 17:51:35.013 - MPKMini - INFO - Executed action: Next Track
+2024-11-25 17:51:44.980 - MPKMini - INFO - Executed action: Minimize Window
+2024-11-25 17:51:46.721 - MPKMini - INFO - Executed action: Maximize Window
+2024-11-25 17:51:47.499 - MPKMini - INFO - Executed action: Maximize Window
+2024-11-25 17:51:50.290 - MPKMini - INFO - Executed action: Open File Explorer
+2024-11-25 17:51:54.623 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:51:55.949 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:51:56.634 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:51:57.264 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:52:24.577 - MPKMini - INFO - Unmapped pad pressed (note 5)
+2024-11-25 17:52:25.310 - MPKMini - INFO - Unmapped pad pressed (note 6)
+2024-11-25 17:52:25.573 - MPKMini - INFO - Unmapped pad pressed (note 7)
+2024-11-25 17:52:25.811 - MPKMini - INFO - Unmapped pad pressed (note 8)
+2024-11-25 17:52:26.044 - MPKMini - INFO - Unmapped pad pressed (note 20)
+2024-11-25 17:52:26.248 - MPKMini - INFO - Unmapped pad pressed (note 19)
+2024-11-25 17:52:26.496 - MPKMini - INFO - Unmapped pad pressed (note 18)
+2024-11-25 17:52:26.937 - MPKMini - INFO - Unmapped pad pressed (note 17)
+2024-11-25 17:52:28.892 - MPKMini - INFO - Executed action: Open File Explorer
+2024-11-25 17:52:38.640 - MPKMini - INFO - Executed action: Open File Explorer
+2024-11-25 17:52:50.602 - MPKMini - INFO - Executed action: Open File Explorer
+2024-11-25 17:54:09.895 - MPKMini - INFO - Executed action: Switch Window (Alt+Tab)
+2024-11-25 17:58:34.909 - MPKMini - INFO - Stopping MIDI input listener...
+2024-11-25 17:58:34.913 - MPKMini - INFO - Cleanup completed

@@ -1,0 +1,28 @@
+2024-11-25 18:09:28.806 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 18:09:28.839 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 18:09:28.840 - MPKMini - INFO - Searching for Akai MPK Mini device...
+2024-11-25 18:09:28.840 - MPKMini - INFO - Found Akai MPK Mini: MPK Mini Mk II (ID: 1)
+2024-11-25 18:09:28.846 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 18:09:29.704 - MPKMini - INFO - User mapped pad (note 3) to action: Minimize Window
+2024-11-25 18:09:30.205 - MPKMini - INFO - User mapped pad (note 2) to action: Maximize Window
+2024-11-25 18:09:30.706 - MPKMini - INFO - User mapped pad (note 1) to action: Switch Window (Alt+Tab)
+2024-11-25 18:09:31.206 - MPKMini - INFO - User mapped pad (note 0) to action: Open File Explorer
+2024-11-25 18:09:31.707 - MPKMini - INFO - User mapped pad (note 15) to action: Previous Track
+2024-11-25 18:09:32.208 - MPKMini - INFO - User mapped pad (note 14) to action: Play/Pause
+2024-11-25 18:09:32.709 - MPKMini - INFO - User mapped pad (note 13) to action: Next Track
+2024-11-25 18:09:36.938 - MPKMini - INFO - User mapped pad (note 0) to action: Show Desktop
+2024-11-25 18:09:48.182 - MPKMini - INFO - User mapped knob (CC 1) to action: System Volume (min: 1, max: 127)
+2024-11-25 18:09:57.475 - MPKMini - INFO - User mapped knob (CC 2) to action: Spotify Volume (min: 1, max: 127)
+2024-11-25 18:10:05.130 - MPKMini - INFO - User mapped knob (CC 3) to action: Firefox Volume (min: 1, max: 127)
+2024-11-25 18:10:10.833 - MPKMini - INFO - User mapped knob (CC 4) to action: Screen Brightness (min: 1, max: 127)
+2024-11-25 18:10:17.544 - MPKMini - INFO - Adjusting system volume to 49 steps
+2024-11-25 18:10:27.774 - MPKMini - INFO - Knob 1 (System Volume) adjusted to 99.21%
+2024-11-25 18:10:27.775 - MPKMini - INFO - Adjusting system volume to 49 steps
+2024-11-25 18:10:38.069 - MPKMini - INFO - Knob 1 (System Volume) adjusted to 98.41%
+2024-11-25 18:10:38.069 - MPKMini - INFO - Adjusting system volume to 48 steps
+2024-11-25 18:10:48.229 - MPKMini - INFO - Knob 1 (System Volume) adjusted to 96.83%
+2024-11-25 18:10:48.229 - MPKMini - INFO - Adjusting system volume to 48 steps
+2024-11-25 18:10:58.342 - MPKMini - INFO - Knob 1 (System Volume) adjusted to 96.03%
+2024-11-25 18:10:58.342 - MPKMini - INFO - Adjusting system volume to 47 steps
+2024-11-25 18:11:02.411 - MPKMini - INFO - Stopping MIDI input listener...
+2024-11-25 18:11:02.415 - MPKMini - INFO - Cleanup completed

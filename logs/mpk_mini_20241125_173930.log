@@ -1,0 +1,3 @@
+2024-11-25 17:39:30.195 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 17:39:30.232 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 17:39:30.232 - root - ERROR - Fatal error: 'AkaiMPKMiniAutomation' object has no attribute '_find_mpk_mini'

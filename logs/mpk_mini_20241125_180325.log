@@ -1,0 +1,1206 @@
+2024-11-25 18:03:25.081 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 18:03:25.116 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 18:03:25.117 - MPKMini - INFO - Searching for Akai MPK Mini device...
+2024-11-25 18:03:25.117 - MPKMini - INFO - Found Akai MPK Mini: MPK Mini Mk II (ID: 1)
+2024-11-25 18:03:25.124 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 18:03:31.313 - MPKMini - INFO - User mapped pad (note 3) to action: Minimize Window
+2024-11-25 18:03:32.861 - MPKMini - INFO - User mapped pad (note 2) to action: Maximize Window
+2024-11-25 18:03:34.099 - MPKMini - INFO - User mapped pad (note 1) to action: Switch Window (Alt+Tab)
+2024-11-25 18:03:35.277 - MPKMini - INFO - User mapped pad (note 0) to action: Open File Explorer
+2024-11-25 18:03:36.430 - MPKMini - INFO - User mapped pad (note 15) to action: Previous Track
+2024-11-25 18:03:37.468 - MPKMini - INFO - User mapped pad (note 14) to action: Play/Pause
+2024-11-25 18:03:38.406 - MPKMini - INFO - User mapped pad (note 13) to action: Next Track
+2024-11-25 18:03:39.550 - MPKMini - INFO - User mapped pad (note 12) to action: Show Desktop
+2024-11-25 18:03:54.568 - MPKMini - INFO - User mapped knob (CC 1) to action: System Volume (min: 1, max: 66)
+2024-11-25 18:04:10.774 - MPKMini - INFO - User mapped knob (CC 1) to action: Spotify Volume (min: 1, max: 127)
+2024-11-25 18:04:28.511 - MPKMini - INFO - User mapped knob (CC 3) to action: Firefox Volume (min: 1, max: 127)
+2024-11-25 18:04:38.687 - MPKMini - INFO - User mapped knob (CC 3) to action: Screen Brightness (min: 1, max: 127)
+2024-11-25 18:04:43.374 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.424 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.470 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.517 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.559 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.608 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.652 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.709 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.757 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.802 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.849 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.888 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.930 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:43.972 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.019 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.067 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.111 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.164 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.217 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.273 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.329 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.380 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.424 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.467 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.516 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.566 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.609 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.653 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.698 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.737 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.781 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.829 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.873 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.918 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:44.963 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.011 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.068 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.114 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.155 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.196 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.242 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.291 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.337 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.380 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.422 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.468 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.514 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.557 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.603 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.648 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.690 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.730 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.779 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.825 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.867 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.914 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.955 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:45.999 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.047 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.091 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.135 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.182 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.226 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.268 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.317 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.365 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.414 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.461 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.504 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.548 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.598 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.642 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.687 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.739 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.788 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.838 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.884 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.928 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:46.971 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.018 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.068 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.112 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.157 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.204 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.250 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.304 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.352 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.395 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.440 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.484 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.534 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.580 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.627 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.671 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.717 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.766 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.810 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.863 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.905 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.945 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:47.991 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.042 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.092 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.135 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.183 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.228 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.269 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.316 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.365 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.409 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.455 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.502 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.546 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:48.594 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:51.655 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:51.701 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:51.747 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:51.793 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:51.836 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:51.884 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:51.935 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:51.975 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.015 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.056 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.098 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.143 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.189 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.237 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.289 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.331 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.374 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.415 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.466 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.507 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.551 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.598 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.641 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.689 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.734 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.778 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.821 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.868 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.915 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:52.961 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.010 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.054 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.098 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.142 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.184 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.230 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.275 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.321 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.364 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.410 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.460 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.504 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.551 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.595 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.643 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.695 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.754 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.800 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.848 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.896 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.942 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:53.988 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.031 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.074 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.119 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.164 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.211 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.257 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.303 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.344 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.391 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.444 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.495 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.540 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.582 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.625 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.675 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.719 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.764 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.808 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.855 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.899 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.944 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:54.995 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:55.040 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:55.086 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:55.129 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:55.171 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:55.214 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:55.259 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:55.303 - MPKMini - ERROR - Error executing knob action Screen Brightness: string indices must be integers, not 'str'
+2024-11-25 18:04:57.137 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.00%
+2024-11-25 18:04:57.150 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.79%
+2024-11-25 18:04:57.164 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 1.59%
+2024-11-25 18:04:57.178 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 2.38%
+2024-11-25 18:04:57.190 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.97%
+2024-11-25 18:04:57.202 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 4.76%
+2024-11-25 18:04:57.214 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 5.56%
+2024-11-25 18:04:57.227 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 6.35%
+2024-11-25 18:04:57.239 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.14%
+2024-11-25 18:04:57.251 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.94%
+2024-11-25 18:04:57.263 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 8.73%
+2024-11-25 18:04:57.274 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 10.32%
+2024-11-25 18:04:57.287 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.11%
+2024-11-25 18:04:57.298 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.90%
+2024-11-25 18:04:57.309 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 12.70%
+2024-11-25 18:04:57.321 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 13.49%
+2024-11-25 18:04:57.332 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.08%
+2024-11-25 18:04:57.344 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.87%
+2024-11-25 18:04:57.355 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 16.67%
+2024-11-25 18:04:57.368 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 18.25%
+2024-11-25 18:04:57.380 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.05%
+2024-11-25 18:04:57.391 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 20.63%
+2024-11-25 18:04:57.402 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 21.43%
+2024-11-25 18:04:57.415 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 22.22%
+2024-11-25 18:04:57.426 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.02%
+2024-11-25 18:04:57.440 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.81%
+2024-11-25 18:04:57.451 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 24.60%
+2024-11-25 18:04:57.463 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 25.40%
+2024-11-25 18:04:57.475 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.19%
+2024-11-25 18:04:57.488 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.98%
+2024-11-25 18:04:57.551 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 27.78%
+2024-11-25 18:04:57.671 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.98%
+2024-11-25 18:04:57.691 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.19%
+2024-11-25 18:04:57.704 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 24.60%
+2024-11-25 18:04:57.717 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.81%
+2024-11-25 18:04:57.730 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.02%
+2024-11-25 18:04:57.741 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 22.22%
+2024-11-25 18:04:57.754 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 21.43%
+2024-11-25 18:04:57.766 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 20.63%
+2024-11-25 18:04:57.776 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.84%
+2024-11-25 18:04:57.789 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.05%
+2024-11-25 18:04:57.801 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 18.25%
+2024-11-25 18:04:57.812 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 17.46%
+2024-11-25 18:04:57.823 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 16.67%
+2024-11-25 18:04:57.835 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.87%
+2024-11-25 18:04:57.848 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.08%
+2024-11-25 18:04:57.861 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 14.29%
+2024-11-25 18:04:57.873 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 13.49%
+2024-11-25 18:04:57.884 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 12.70%
+2024-11-25 18:04:57.896 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.90%
+2024-11-25 18:04:57.907 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.11%
+2024-11-25 18:04:57.918 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 10.32%
+2024-11-25 18:04:57.931 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 9.52%
+2024-11-25 18:04:57.944 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 8.73%
+2024-11-25 18:04:57.958 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.94%
+2024-11-25 18:04:57.970 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.14%
+2024-11-25 18:04:57.982 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 6.35%
+2024-11-25 18:04:57.996 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 5.56%
+2024-11-25 18:04:58.008 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 4.76%
+2024-11-25 18:04:58.021 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.97%
+2024-11-25 18:04:58.038 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.17%
+2024-11-25 18:04:58.054 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 1.59%
+2024-11-25 18:04:58.065 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.79%
+2024-11-25 18:04:58.078 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.00%
+2024-11-25 18:04:58.090 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.00%
+2024-11-25 18:04:59.760 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.00%
+2024-11-25 18:04:59.772 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.79%
+2024-11-25 18:04:59.784 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 1.59%
+2024-11-25 18:04:59.797 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 2.38%
+2024-11-25 18:04:59.810 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.17%
+2024-11-25 18:04:59.823 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.97%
+2024-11-25 18:04:59.834 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 4.76%
+2024-11-25 18:04:59.846 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 5.56%
+2024-11-25 18:04:59.859 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 6.35%
+2024-11-25 18:04:59.872 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.14%
+2024-11-25 18:04:59.885 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.94%
+2024-11-25 18:04:59.897 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 8.73%
+2024-11-25 18:04:59.910 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 9.52%
+2024-11-25 18:04:59.923 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.11%
+2024-11-25 18:04:59.934 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.90%
+2024-11-25 18:04:59.949 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 12.70%
+2024-11-25 18:04:59.961 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 13.49%
+2024-11-25 18:04:59.972 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 14.29%
+2024-11-25 18:04:59.984 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.87%
+2024-11-25 18:04:59.996 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 16.67%
+2024-11-25 18:05:00.009 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 17.46%
+2024-11-25 18:05:00.024 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 18.25%
+2024-11-25 18:05:00.038 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.05%
+2024-11-25 18:05:00.051 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.84%
+2024-11-25 18:05:00.063 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 21.43%
+2024-11-25 18:05:00.075 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 22.22%
+2024-11-25 18:05:00.088 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.02%
+2024-11-25 18:05:00.100 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.81%
+2024-11-25 18:05:00.112 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 24.60%
+2024-11-25 18:05:00.123 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.19%
+2024-11-25 18:05:00.135 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.98%
+2024-11-25 18:05:00.147 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 27.78%
+2024-11-25 18:05:00.158 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 28.57%
+2024-11-25 18:05:00.177 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 29.37%
+2024-11-25 18:05:00.195 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.16%
+2024-11-25 18:05:00.211 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.95%
+2024-11-25 18:05:00.224 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 31.75%
+2024-11-25 18:05:00.235 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 32.54%
+2024-11-25 18:05:00.248 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 33.33%
+2024-11-25 18:05:00.270 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.13%
+2024-11-25 18:05:00.282 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.92%
+2024-11-25 18:05:00.305 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 36.51%
+2024-11-25 18:05:00.336 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 37.30%
+2024-11-25 18:05:00.365 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.10%
+2024-11-25 18:05:00.384 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.89%
+2024-11-25 18:05:00.422 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 39.68%
+2024-11-25 18:05:00.468 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 40.48%
+2024-11-25 18:05:00.508 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 41.27%
+2024-11-25 18:05:00.523 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.06%
+2024-11-25 18:05:00.543 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.86%
+2024-11-25 18:05:00.566 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 43.65%
+2024-11-25 18:05:00.587 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 44.44%
+2024-11-25 18:05:00.620 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 45.24%
+2024-11-25 18:05:00.652 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.03%
+2024-11-25 18:05:00.667 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 47.62%
+2024-11-25 18:05:00.681 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 48.41%
+2024-11-25 18:05:00.694 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 49.21%
+2024-11-25 18:05:00.708 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.79%
+2024-11-25 18:05:00.723 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 51.59%
+2024-11-25 18:05:00.739 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 52.38%
+2024-11-25 18:05:00.755 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.17%
+2024-11-25 18:05:00.768 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.97%
+2024-11-25 18:05:00.788 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 54.76%
+2024-11-25 18:05:00.810 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 55.56%
+2024-11-25 18:05:00.832 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.14%
+2024-11-25 18:05:00.851 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.94%
+2024-11-25 18:05:00.898 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 58.73%
+2024-11-25 18:05:00.944 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 59.52%
+2024-11-25 18:05:00.957 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 60.32%
+2024-11-25 18:05:00.981 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.11%
+2024-11-25 18:05:00.994 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.90%
+2024-11-25 18:05:01.007 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 62.70%
+2024-11-25 18:05:01.020 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 63.49%
+2024-11-25 18:05:01.039 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 64.29%
+2024-11-25 18:05:01.073 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.08%
+2024-11-25 18:05:01.088 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.87%
+2024-11-25 18:05:01.102 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 66.67%
+2024-11-25 18:05:01.118 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 67.46%
+2024-11-25 18:05:01.131 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 68.25%
+2024-11-25 18:05:01.143 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.05%
+2024-11-25 18:05:01.157 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.84%
+2024-11-25 18:05:01.207 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 70.63%
+2024-11-25 18:05:01.249 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 71.43%
+2024-11-25 18:05:01.274 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.02%
+2024-11-25 18:05:01.317 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.81%
+2024-11-25 18:05:01.349 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 74.60%
+2024-11-25 18:05:01.367 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 75.40%
+2024-11-25 18:05:01.384 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.19%
+2024-11-25 18:05:01.398 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.98%
+2024-11-25 18:05:01.411 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 77.78%
+2024-11-25 18:05:01.477 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 78.57%
+2024-11-25 18:05:01.494 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 79.37%
+2024-11-25 18:05:01.515 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.16%
+2024-11-25 18:05:01.557 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.95%
+2024-11-25 18:05:01.622 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 82.54%
+2024-11-25 18:05:01.646 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 83.33%
+2024-11-25 18:05:01.682 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.13%
+2024-11-25 18:05:01.747 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.92%
+2024-11-25 18:05:01.774 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 85.71%
+2024-11-25 18:05:01.849 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 86.51%
+2024-11-25 18:05:01.861 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 87.30%
+2024-11-25 18:05:01.873 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.10%
+2024-11-25 18:05:01.885 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.89%
+2024-11-25 18:05:01.895 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 89.68%
+2024-11-25 18:05:01.906 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 90.48%
+2024-11-25 18:05:01.918 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 91.27%
+2024-11-25 18:05:01.933 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.06%
+2024-11-25 18:05:01.985 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.86%
+2024-11-25 18:05:02.000 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 94.44%
+2024-11-25 18:05:02.014 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 95.24%
+2024-11-25 18:05:02.029 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.03%
+2024-11-25 18:05:02.042 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.83%
+2024-11-25 18:05:02.055 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 97.62%
+2024-11-25 18:05:02.067 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 99.21%
+2024-11-25 18:05:02.077 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 100.00%
+2024-11-25 18:05:03.845 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 99.21%
+2024-11-25 18:05:03.859 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 98.41%
+2024-11-25 18:05:03.879 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 97.62%
+2024-11-25 18:05:03.895 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.83%
+2024-11-25 18:05:03.915 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.03%
+2024-11-25 18:05:03.929 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 95.24%
+2024-11-25 18:05:03.944 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 94.44%
+2024-11-25 18:05:03.957 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 93.65%
+2024-11-25 18:05:03.970 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.86%
+2024-11-25 18:05:03.982 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 91.27%
+2024-11-25 18:05:03.995 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 90.48%
+2024-11-25 18:05:04.008 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 89.68%
+2024-11-25 18:05:04.030 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.89%
+2024-11-25 18:05:04.114 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.10%
+2024-11-25 18:05:04.300 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.89%
+2024-11-25 18:05:04.324 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 89.68%
+2024-11-25 18:05:04.345 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 90.48%
+2024-11-25 18:05:04.361 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 91.27%
+2024-11-25 18:05:04.374 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.06%
+2024-11-25 18:05:04.387 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.86%
+2024-11-25 18:05:04.399 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 93.65%
+2024-11-25 18:05:04.416 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 94.44%
+2024-11-25 18:05:04.483 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 95.24%
+2024-11-25 18:05:04.546 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.03%
+2024-11-25 18:05:04.561 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.83%
+2024-11-25 18:05:04.575 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 97.62%
+2024-11-25 18:05:04.591 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 98.41%
+2024-11-25 18:05:04.604 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 99.21%
+2024-11-25 18:05:04.626 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 100.00%
+2024-11-25 18:05:06.058 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 99.21%
+2024-11-25 18:05:06.072 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 98.41%
+2024-11-25 18:05:06.084 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.83%
+2024-11-25 18:05:06.097 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.03%
+2024-11-25 18:05:06.111 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 95.24%
+2024-11-25 18:05:06.124 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 94.44%
+2024-11-25 18:05:06.138 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 93.65%
+2024-11-25 18:05:06.149 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.86%
+2024-11-25 18:05:06.160 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.06%
+2024-11-25 18:05:06.171 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 91.27%
+2024-11-25 18:05:06.183 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 89.68%
+2024-11-25 18:05:06.195 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.89%
+2024-11-25 18:05:06.208 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.10%
+2024-11-25 18:05:06.222 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 86.51%
+2024-11-25 18:05:06.234 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.92%
+2024-11-25 18:05:06.246 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.13%
+2024-11-25 18:05:06.257 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 82.54%
+2024-11-25 18:05:06.270 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 81.75%
+2024-11-25 18:05:06.282 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.95%
+2024-11-25 18:05:06.295 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.16%
+2024-11-25 18:05:06.307 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 78.57%
+2024-11-25 18:05:06.318 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 77.78%
+2024-11-25 18:05:06.330 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.19%
+2024-11-25 18:05:06.340 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 75.40%
+2024-11-25 18:05:06.351 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 74.60%
+2024-11-25 18:05:06.366 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.02%
+2024-11-25 18:05:06.383 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 72.22%
+2024-11-25 18:05:06.401 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 70.63%
+2024-11-25 18:05:06.414 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.05%
+2024-11-25 18:05:06.425 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 68.25%
+2024-11-25 18:05:06.438 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 67.46%
+2024-11-25 18:05:06.449 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.87%
+2024-11-25 18:05:06.464 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.08%
+2024-11-25 18:05:06.476 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 63.49%
+2024-11-25 18:05:06.487 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 62.70%
+2024-11-25 18:05:06.498 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.11%
+2024-11-25 18:05:06.509 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 60.32%
+2024-11-25 18:05:06.520 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 59.52%
+2024-11-25 18:05:06.532 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 58.73%
+2024-11-25 18:05:06.545 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.94%
+2024-11-25 18:05:06.557 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 56.35%
+2024-11-25 18:05:06.570 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 55.56%
+2024-11-25 18:05:06.583 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.97%
+2024-11-25 18:05:06.595 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 52.38%
+2024-11-25 18:05:06.606 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 51.59%
+2024-11-25 18:05:06.617 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.79%
+2024-11-25 18:05:06.629 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.00%
+2024-11-25 18:05:06.639 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 49.21%
+2024-11-25 18:05:06.649 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 48.41%
+2024-11-25 18:05:06.659 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.83%
+2024-11-25 18:05:06.670 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.03%
+2024-11-25 18:05:06.681 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 45.24%
+2024-11-25 18:05:06.693 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 44.44%
+2024-11-25 18:05:06.705 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.86%
+2024-11-25 18:05:06.715 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.06%
+2024-11-25 18:05:06.726 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 41.27%
+2024-11-25 18:05:06.738 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 40.48%
+2024-11-25 18:05:06.749 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 39.68%
+2024-11-25 18:05:06.764 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.89%
+2024-11-25 18:05:06.777 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.10%
+2024-11-25 18:05:06.788 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 37.30%
+2024-11-25 18:05:06.800 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 36.51%
+2024-11-25 18:05:06.813 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 35.71%
+2024-11-25 18:05:06.825 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.13%
+2024-11-25 18:05:06.837 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 33.33%
+2024-11-25 18:05:06.848 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 31.75%
+2024-11-25 18:05:06.859 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.95%
+2024-11-25 18:05:06.871 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.16%
+2024-11-25 18:05:06.882 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 29.37%
+2024-11-25 18:05:06.893 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 27.78%
+2024-11-25 18:05:06.905 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.98%
+2024-11-25 18:05:06.916 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.19%
+2024-11-25 18:05:06.929 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 24.60%
+2024-11-25 18:05:06.940 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.81%
+2024-11-25 18:05:06.953 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.02%
+2024-11-25 18:05:06.964 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 21.43%
+2024-11-25 18:05:06.975 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 20.63%
+2024-11-25 18:05:06.987 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.84%
+2024-11-25 18:05:06.999 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.05%
+2024-11-25 18:05:07.012 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 18.25%
+2024-11-25 18:05:07.025 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 17.46%
+2024-11-25 18:05:07.037 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 16.67%
+2024-11-25 18:05:07.051 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.08%
+2024-11-25 18:05:07.064 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 14.29%
+2024-11-25 18:05:07.077 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 13.49%
+2024-11-25 18:05:07.090 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 12.70%
+2024-11-25 18:05:07.101 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.90%
+2024-11-25 18:05:07.113 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 10.32%
+2024-11-25 18:05:07.124 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 9.52%
+2024-11-25 18:05:07.137 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 8.73%
+2024-11-25 18:05:07.150 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.94%
+2024-11-25 18:05:07.161 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.14%
+2024-11-25 18:05:07.174 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 6.35%
+2024-11-25 18:05:07.186 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 5.56%
+2024-11-25 18:05:07.197 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 4.76%
+2024-11-25 18:05:07.212 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.97%
+2024-11-25 18:05:07.227 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.17%
+2024-11-25 18:05:07.238 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 2.38%
+2024-11-25 18:05:07.253 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 1.59%
+2024-11-25 18:05:07.265 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.79%
+2024-11-25 18:05:07.276 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.00%
+2024-11-25 18:05:07.288 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.00%
+2024-11-25 18:05:07.862 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.00%
+2024-11-25 18:05:07.874 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.79%
+2024-11-25 18:05:07.890 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 1.59%
+2024-11-25 18:05:07.904 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 2.38%
+2024-11-25 18:05:07.916 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.17%
+2024-11-25 18:05:07.929 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.97%
+2024-11-25 18:05:07.958 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 4.76%
+2024-11-25 18:05:07.994 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 5.56%
+2024-11-25 18:05:08.012 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 6.35%
+2024-11-25 18:05:08.029 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.14%
+2024-11-25 18:05:08.042 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.94%
+2024-11-25 18:05:08.056 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 8.73%
+2024-11-25 18:05:08.072 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 9.52%
+2024-11-25 18:05:08.086 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 10.32%
+2024-11-25 18:05:08.099 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.90%
+2024-11-25 18:05:08.113 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 12.70%
+2024-11-25 18:05:08.125 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 13.49%
+2024-11-25 18:05:08.138 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 14.29%
+2024-11-25 18:05:08.151 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.87%
+2024-11-25 18:05:08.164 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 16.67%
+2024-11-25 18:05:08.176 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 17.46%
+2024-11-25 18:05:08.188 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 18.25%
+2024-11-25 18:05:08.204 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.84%
+2024-11-25 18:05:08.215 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 20.63%
+2024-11-25 18:05:08.226 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 21.43%
+2024-11-25 18:05:08.238 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 22.22%
+2024-11-25 18:05:08.250 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.81%
+2024-11-25 18:05:08.262 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 24.60%
+2024-11-25 18:05:08.278 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 25.40%
+2024-11-25 18:05:08.290 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.98%
+2024-11-25 18:05:08.302 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 27.78%
+2024-11-25 18:05:08.313 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 28.57%
+2024-11-25 18:05:08.325 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.16%
+2024-11-25 18:05:08.339 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.95%
+2024-11-25 18:05:08.352 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 31.75%
+2024-11-25 18:05:08.364 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 32.54%
+2024-11-25 18:05:08.376 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 33.33%
+2024-11-25 18:05:08.389 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.13%
+2024-11-25 18:05:08.402 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 35.71%
+2024-11-25 18:05:08.413 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 36.51%
+2024-11-25 18:05:08.427 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 37.30%
+2024-11-25 18:05:08.438 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.10%
+2024-11-25 18:05:08.450 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 39.68%
+2024-11-25 18:05:08.462 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 40.48%
+2024-11-25 18:05:08.474 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 41.27%
+2024-11-25 18:05:08.485 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.86%
+2024-11-25 18:05:08.496 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 43.65%
+2024-11-25 18:05:08.508 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 44.44%
+2024-11-25 18:05:08.546 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 45.24%
+2024-11-25 18:05:08.570 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.03%
+2024-11-25 18:05:08.589 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.83%
+2024-11-25 18:05:08.602 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 47.62%
+2024-11-25 18:05:08.616 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 48.41%
+2024-11-25 18:05:08.630 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 49.21%
+2024-11-25 18:05:08.642 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.79%
+2024-11-25 18:05:08.654 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 51.59%
+2024-11-25 18:05:08.669 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 52.38%
+2024-11-25 18:05:08.682 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.17%
+2024-11-25 18:05:08.692 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 54.76%
+2024-11-25 18:05:08.706 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 55.56%
+2024-11-25 18:05:08.717 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 56.35%
+2024-11-25 18:05:08.731 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.14%
+2024-11-25 18:05:08.744 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.94%
+2024-11-25 18:05:08.758 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 59.52%
+2024-11-25 18:05:08.771 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 60.32%
+2024-11-25 18:05:08.788 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.11%
+2024-11-25 18:05:08.804 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.90%
+2024-11-25 18:05:08.847 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 62.70%
+2024-11-25 18:05:08.863 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 63.49%
+2024-11-25 18:05:08.987 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 64.29%
+2024-11-25 18:05:08.999 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.08%
+2024-11-25 18:05:09.013 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.87%
+2024-11-25 18:05:09.026 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 66.67%
+2024-11-25 18:05:09.038 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 67.46%
+2024-11-25 18:05:09.049 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 68.25%
+2024-11-25 18:05:09.061 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.84%
+2024-11-25 18:05:09.072 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 70.63%
+2024-11-25 18:05:09.086 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 71.43%
+2024-11-25 18:05:09.099 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 72.22%
+2024-11-25 18:05:09.111 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.81%
+2024-11-25 18:05:09.124 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 74.60%
+2024-11-25 18:05:09.135 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 75.40%
+2024-11-25 18:05:09.148 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.19%
+2024-11-25 18:05:09.161 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 77.78%
+2024-11-25 18:05:09.174 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 78.57%
+2024-11-25 18:05:09.185 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 79.37%
+2024-11-25 18:05:09.196 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.16%
+2024-11-25 18:05:09.208 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.95%
+2024-11-25 18:05:09.219 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 82.54%
+2024-11-25 18:05:09.233 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 83.33%
+2024-11-25 18:05:09.249 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.13%
+2024-11-25 18:05:09.259 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 85.71%
+2024-11-25 18:05:09.271 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 86.51%
+2024-11-25 18:05:09.282 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 87.30%
+2024-11-25 18:05:09.295 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.10%
+2024-11-25 18:05:09.306 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.89%
+2024-11-25 18:05:09.322 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 89.68%
+2024-11-25 18:05:09.402 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 90.48%
+2024-11-25 18:05:09.621 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 91.27%
+2024-11-25 18:05:09.648 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.06%
+2024-11-25 18:05:09.667 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.86%
+2024-11-25 18:05:09.683 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 93.65%
+2024-11-25 18:05:09.696 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 95.24%
+2024-11-25 18:05:09.708 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.03%
+2024-11-25 18:05:09.723 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.83%
+2024-11-25 18:05:09.742 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 97.62%
+2024-11-25 18:05:09.767 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 98.41%
+2024-11-25 18:05:09.785 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 99.21%
+2024-11-25 18:05:09.814 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 100.00%
+2024-11-25 18:05:13.115 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 99.21%
+2024-11-25 18:05:13.129 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 98.41%
+2024-11-25 18:05:13.142 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.83%
+2024-11-25 18:05:13.156 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.03%
+2024-11-25 18:05:13.166 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 94.44%
+2024-11-25 18:05:13.178 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 93.65%
+2024-11-25 18:05:13.191 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.06%
+2024-11-25 18:05:13.203 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 91.27%
+2024-11-25 18:05:13.215 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 89.68%
+2024-11-25 18:05:13.228 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.89%
+2024-11-25 18:05:13.240 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.10%
+2024-11-25 18:05:13.254 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 87.30%
+2024-11-25 18:05:13.267 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 85.71%
+2024-11-25 18:05:13.280 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.92%
+2024-11-25 18:05:13.291 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.13%
+2024-11-25 18:05:13.302 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 83.33%
+2024-11-25 18:05:13.313 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 81.75%
+2024-11-25 18:05:13.324 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.95%
+2024-11-25 18:05:13.336 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.16%
+2024-11-25 18:05:13.348 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 79.37%
+2024-11-25 18:05:13.358 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 78.57%
+2024-11-25 18:05:13.370 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.98%
+2024-11-25 18:05:13.380 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.19%
+2024-11-25 18:05:13.391 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 75.40%
+2024-11-25 18:05:13.402 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 74.60%
+2024-11-25 18:05:13.413 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.81%
+2024-11-25 18:05:13.425 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 72.22%
+2024-11-25 18:05:13.437 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 71.43%
+2024-11-25 18:05:13.450 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 70.63%
+2024-11-25 18:05:13.462 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.05%
+2024-11-25 18:05:13.473 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 68.25%
+2024-11-25 18:05:13.484 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 67.46%
+2024-11-25 18:05:13.495 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 66.67%
+2024-11-25 18:05:13.506 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.08%
+2024-11-25 18:05:13.518 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 64.29%
+2024-11-25 18:05:13.529 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 63.49%
+2024-11-25 18:05:13.540 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.90%
+2024-11-25 18:05:13.551 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.11%
+2024-11-25 18:05:13.563 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 59.52%
+2024-11-25 18:05:13.575 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 58.73%
+2024-11-25 18:05:13.587 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.94%
+2024-11-25 18:05:13.598 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.14%
+2024-11-25 18:05:13.609 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 56.35%
+2024-11-25 18:05:13.626 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 55.56%
+2024-11-25 18:05:13.638 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 54.76%
+2024-11-25 18:05:13.649 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.17%
+2024-11-25 18:05:13.660 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 52.38%
+2024-11-25 18:05:13.673 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 51.59%
+2024-11-25 18:05:13.686 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.00%
+2024-11-25 18:05:13.697 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 49.21%
+2024-11-25 18:05:13.710 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 48.41%
+2024-11-25 18:05:13.722 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 47.62%
+2024-11-25 18:05:13.735 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.83%
+2024-11-25 18:05:13.748 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.03%
+2024-11-25 18:05:13.771 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 45.24%
+2024-11-25 18:05:13.796 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 43.65%
+2024-11-25 18:05:13.859 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.86%
+2024-11-25 18:05:13.907 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.06%
+2024-11-25 18:05:13.932 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 40.48%
+2024-11-25 18:05:13.949 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 39.68%
+2024-11-25 18:05:13.982 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.89%
+2024-11-25 18:05:13.994 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.10%
+2024-11-25 18:05:14.007 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 37.30%
+2024-11-25 18:05:14.020 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 36.51%
+2024-11-25 18:05:14.035 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.92%
+2024-11-25 18:05:14.048 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.13%
+2024-11-25 18:05:14.061 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 33.33%
+2024-11-25 18:05:14.074 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 32.54%
+2024-11-25 18:05:14.092 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 31.75%
+2024-11-25 18:05:14.105 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.95%
+2024-11-25 18:05:14.118 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.16%
+2024-11-25 18:05:14.150 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 29.37%
+2024-11-25 18:05:15.427 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.16%
+2024-11-25 18:05:15.440 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.95%
+2024-11-25 18:05:15.453 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 32.54%
+2024-11-25 18:05:15.465 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 33.33%
+2024-11-25 18:05:15.479 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.13%
+2024-11-25 18:05:15.491 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 35.71%
+2024-11-25 18:05:15.502 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 36.51%
+2024-11-25 18:05:15.515 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 37.30%
+2024-11-25 18:05:15.527 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.89%
+2024-11-25 18:05:15.539 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 39.68%
+2024-11-25 18:05:15.552 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 40.48%
+2024-11-25 18:05:15.567 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.06%
+2024-11-25 18:05:15.580 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.86%
+2024-11-25 18:05:15.591 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 43.65%
+2024-11-25 18:05:15.603 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 45.24%
+2024-11-25 18:05:15.614 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.03%
+2024-11-25 18:05:15.627 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 47.62%
+2024-11-25 18:05:15.640 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 48.41%
+2024-11-25 18:05:15.654 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 49.21%
+2024-11-25 18:05:15.667 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.00%
+2024-11-25 18:05:15.679 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.79%
+2024-11-25 18:05:15.690 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 51.59%
+2024-11-25 18:05:15.701 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.17%
+2024-11-25 18:05:15.713 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.97%
+2024-11-25 18:05:15.726 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 55.56%
+2024-11-25 18:05:15.737 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 56.35%
+2024-11-25 18:05:15.749 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.94%
+2024-11-25 18:05:15.761 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 58.73%
+2024-11-25 18:05:15.774 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 59.52%
+2024-11-25 18:05:15.787 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 60.32%
+2024-11-25 18:05:15.800 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.90%
+2024-11-25 18:05:15.812 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 62.70%
+2024-11-25 18:05:15.823 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 63.49%
+2024-11-25 18:05:15.835 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 64.29%
+2024-11-25 18:05:15.847 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.87%
+2024-11-25 18:05:15.859 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 66.67%
+2024-11-25 18:05:15.872 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 67.46%
+2024-11-25 18:05:15.884 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 68.25%
+2024-11-25 18:05:15.897 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.84%
+2024-11-25 18:05:15.908 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 70.63%
+2024-11-25 18:05:15.923 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 71.43%
+2024-11-25 18:05:15.937 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.02%
+2024-11-25 18:05:15.949 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.81%
+2024-11-25 18:05:15.961 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 74.60%
+2024-11-25 18:05:15.974 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 75.40%
+2024-11-25 18:05:15.986 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.19%
+2024-11-25 18:05:15.998 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.98%
+2024-11-25 18:05:16.010 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 77.78%
+2024-11-25 18:05:16.026 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 79.37%
+2024-11-25 18:05:16.039 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.16%
+2024-11-25 18:05:16.051 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.95%
+2024-11-25 18:05:16.062 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 81.75%
+2024-11-25 18:05:16.072 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 82.54%
+2024-11-25 18:05:16.082 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.13%
+2024-11-25 18:05:16.094 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.92%
+2024-11-25 18:05:16.108 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 85.71%
+2024-11-25 18:05:16.119 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 86.51%
+2024-11-25 18:05:16.130 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 87.30%
+2024-11-25 18:05:16.143 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.89%
+2024-11-25 18:05:16.155 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 89.68%
+2024-11-25 18:05:16.167 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 90.48%
+2024-11-25 18:05:16.179 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 91.27%
+2024-11-25 18:05:16.190 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.86%
+2024-11-25 18:05:16.201 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 93.65%
+2024-11-25 18:05:16.214 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 95.24%
+2024-11-25 18:05:16.228 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.03%
+2024-11-25 18:05:16.240 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.83%
+2024-11-25 18:05:16.251 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 97.62%
+2024-11-25 18:05:16.266 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 98.41%
+2024-11-25 18:05:16.278 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 99.21%
+2024-11-25 18:05:16.290 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 100.00%
+2024-11-25 18:05:18.248 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 99.21%
+2024-11-25 18:05:18.264 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 97.62%
+2024-11-25 18:05:18.284 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.83%
+2024-11-25 18:05:18.300 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.03%
+2024-11-25 18:05:18.322 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 95.24%
+2024-11-25 18:05:18.344 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 94.44%
+2024-11-25 18:05:18.364 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 93.65%
+2024-11-25 18:05:18.380 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.86%
+2024-11-25 18:05:18.395 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 91.27%
+2024-11-25 18:05:18.412 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 90.48%
+2024-11-25 18:05:18.429 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.89%
+2024-11-25 18:05:18.444 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.10%
+2024-11-25 18:05:18.461 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 86.51%
+2024-11-25 18:05:18.474 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.92%
+2024-11-25 18:05:18.498 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.13%
+2024-11-25 18:05:18.534 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 83.33%
+2024-11-25 18:05:18.553 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 82.54%
+2024-11-25 18:05:18.567 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 81.75%
+2024-11-25 18:05:18.588 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.95%
+2024-11-25 18:05:18.613 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 79.37%
+2024-11-25 18:05:18.629 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 78.57%
+2024-11-25 18:05:18.658 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.98%
+2024-11-25 18:05:18.688 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.19%
+2024-11-25 18:05:18.708 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 75.40%
+2024-11-25 18:05:18.744 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.81%
+2024-11-25 18:05:18.761 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 72.22%
+2024-11-25 18:05:18.787 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 71.43%
+2024-11-25 18:05:18.822 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 70.63%
+2024-11-25 18:05:18.840 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.05%
+2024-11-25 18:05:18.863 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 68.25%
+2024-11-25 18:05:18.888 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 67.46%
+2024-11-25 18:05:18.901 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.87%
+2024-11-25 18:05:18.917 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.08%
+2024-11-25 18:05:18.952 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 64.29%
+2024-11-25 18:05:18.966 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 63.49%
+2024-11-25 18:05:18.981 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 62.70%
+2024-11-25 18:05:18.999 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.90%
+2024-11-25 18:05:19.032 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.11%
+2024-11-25 18:05:19.045 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 59.52%
+2024-11-25 18:05:19.074 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 58.73%
+2024-11-25 18:05:19.103 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.94%
+2024-11-25 18:05:19.118 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 56.35%
+2024-11-25 18:05:19.134 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 55.56%
+2024-11-25 18:05:19.152 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 54.76%
+2024-11-25 18:05:19.182 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.97%
+2024-11-25 18:05:19.195 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 52.38%
+2024-11-25 18:05:19.213 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 51.59%
+2024-11-25 18:05:19.248 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.79%
+2024-11-25 18:05:19.263 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.00%
+2024-11-25 18:05:19.277 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 49.21%
+2024-11-25 18:05:19.305 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 47.62%
+2024-11-25 18:05:19.326 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.83%
+2024-11-25 18:05:19.341 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.03%
+2024-11-25 18:05:19.360 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 45.24%
+2024-11-25 18:05:19.390 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 43.65%
+2024-11-25 18:05:19.402 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.86%
+2024-11-25 18:05:19.415 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.06%
+2024-11-25 18:05:19.434 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 41.27%
+2024-11-25 18:05:19.462 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 39.68%
+2024-11-25 18:05:19.479 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.89%
+2024-11-25 18:05:19.508 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.10%
+2024-11-25 18:05:19.533 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 37.30%
+2024-11-25 18:05:19.549 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 36.51%
+2024-11-25 18:05:19.564 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 35.71%
+2024-11-25 18:05:19.590 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.92%
+2024-11-25 18:05:19.607 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.13%
+2024-11-25 18:05:19.619 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 33.33%
+2024-11-25 18:05:19.676 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.13%
+2024-11-25 18:05:19.699 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.92%
+2024-11-25 18:05:21.707 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.13%
+2024-11-25 18:05:21.723 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 33.33%
+2024-11-25 18:05:21.745 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 32.54%
+2024-11-25 18:05:21.775 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 31.75%
+2024-11-25 18:05:21.789 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.95%
+2024-11-25 18:05:21.809 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.16%
+2024-11-25 18:05:21.845 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 29.37%
+2024-11-25 18:05:21.858 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 28.57%
+2024-11-25 18:05:21.870 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 27.78%
+2024-11-25 18:05:21.892 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.98%
+2024-11-25 18:05:21.919 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.19%
+2024-11-25 18:05:21.932 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 24.60%
+2024-11-25 18:05:21.952 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.81%
+2024-11-25 18:05:21.984 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.02%
+2024-11-25 18:05:21.995 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 22.22%
+2024-11-25 18:05:22.007 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 21.43%
+2024-11-25 18:05:22.021 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 20.63%
+2024-11-25 18:05:22.051 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.84%
+2024-11-25 18:05:22.066 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.05%
+2024-11-25 18:05:22.081 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 18.25%
+2024-11-25 18:05:22.093 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 17.46%
+2024-11-25 18:05:22.125 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 16.67%
+2024-11-25 18:05:22.141 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.87%
+2024-11-25 18:05:22.152 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.08%
+2024-11-25 18:05:22.164 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 14.29%
+2024-11-25 18:05:22.183 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 13.49%
+2024-11-25 18:05:22.203 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 12.70%
+2024-11-25 18:05:22.216 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.90%
+2024-11-25 18:05:22.228 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.11%
+2024-11-25 18:05:22.251 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 10.32%
+2024-11-25 18:05:22.273 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 9.52%
+2024-11-25 18:05:22.285 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 8.73%
+2024-11-25 18:05:22.299 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.94%
+2024-11-25 18:05:22.322 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.14%
+2024-11-25 18:05:22.347 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 6.35%
+2024-11-25 18:05:22.369 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 5.56%
+2024-11-25 18:05:22.411 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 4.76%
+2024-11-25 18:05:22.425 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.97%
+2024-11-25 18:05:22.467 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.17%
+2024-11-25 18:05:22.498 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 2.38%
+2024-11-25 18:05:22.594 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 1.59%
+2024-11-25 18:05:22.855 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 2.38%
+2024-11-25 18:05:22.879 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.97%
+2024-11-25 18:05:22.908 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 4.76%
+2024-11-25 18:05:22.922 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 5.56%
+2024-11-25 18:05:22.955 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 6.35%
+2024-11-25 18:05:22.970 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.14%
+2024-11-25 18:05:22.983 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.94%
+2024-11-25 18:05:22.997 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 8.73%
+2024-11-25 18:05:23.009 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 10.32%
+2024-11-25 18:05:23.022 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.11%
+2024-11-25 18:05:23.039 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.90%
+2024-11-25 18:05:23.053 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 12.70%
+2024-11-25 18:05:23.067 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 14.29%
+2024-11-25 18:05:23.079 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.08%
+2024-11-25 18:05:23.092 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.87%
+2024-11-25 18:05:23.104 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 16.67%
+2024-11-25 18:05:23.117 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 18.25%
+2024-11-25 18:05:23.131 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.05%
+2024-11-25 18:05:23.143 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.84%
+2024-11-25 18:05:23.156 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 20.63%
+2024-11-25 18:05:23.168 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 21.43%
+2024-11-25 18:05:23.181 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.02%
+2024-11-25 18:05:23.193 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.81%
+2024-11-25 18:05:23.206 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 24.60%
+2024-11-25 18:05:23.219 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 25.40%
+2024-11-25 18:05:23.232 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.19%
+2024-11-25 18:05:23.245 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.98%
+2024-11-25 18:05:23.259 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 27.78%
+2024-11-25 18:05:23.271 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 29.37%
+2024-11-25 18:05:23.283 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.16%
+2024-11-25 18:05:23.298 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.95%
+2024-11-25 18:05:23.312 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 31.75%
+2024-11-25 18:05:23.326 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 32.54%
+2024-11-25 18:05:23.340 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.13%
+2024-11-25 18:05:23.354 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.92%
+2024-11-25 18:05:23.369 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 35.71%
+2024-11-25 18:05:23.391 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 36.51%
+2024-11-25 18:05:23.418 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 37.30%
+2024-11-25 18:05:23.435 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.10%
+2024-11-25 18:05:23.453 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.89%
+2024-11-25 18:05:23.466 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 39.68%
+2024-11-25 18:05:23.479 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 41.27%
+2024-11-25 18:05:23.492 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.06%
+2024-11-25 18:05:23.505 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.86%
+2024-11-25 18:05:23.517 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 44.44%
+2024-11-25 18:05:23.530 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 45.24%
+2024-11-25 18:05:23.545 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.03%
+2024-11-25 18:05:23.558 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 47.62%
+2024-11-25 18:05:23.570 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 48.41%
+2024-11-25 18:05:23.582 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.00%
+2024-11-25 18:05:23.593 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.79%
+2024-11-25 18:05:23.606 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 51.59%
+2024-11-25 18:05:23.618 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 52.38%
+2024-11-25 18:05:23.632 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.17%
+2024-11-25 18:05:23.645 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.97%
+2024-11-25 18:05:23.660 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 54.76%
+2024-11-25 18:05:23.676 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 55.56%
+2024-11-25 18:05:23.690 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.14%
+2024-11-25 18:05:23.702 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.94%
+2024-11-25 18:05:23.715 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 58.73%
+2024-11-25 18:05:23.727 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 59.52%
+2024-11-25 18:05:23.740 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 60.32%
+2024-11-25 18:05:23.752 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.11%
+2024-11-25 18:05:23.766 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.90%
+2024-11-25 18:05:23.781 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 62.70%
+2024-11-25 18:05:23.793 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 63.49%
+2024-11-25 18:05:23.805 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 64.29%
+2024-11-25 18:05:23.817 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.08%
+2024-11-25 18:05:23.829 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 66.67%
+2024-11-25 18:05:23.841 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 67.46%
+2024-11-25 18:05:23.853 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 68.25%
+2024-11-25 18:05:23.865 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.05%
+2024-11-25 18:05:23.878 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.84%
+2024-11-25 18:05:23.911 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 70.63%
+2024-11-25 18:05:23.930 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 71.43%
+2024-11-25 18:05:23.944 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 72.22%
+2024-11-25 18:05:23.963 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.02%
+2024-11-25 18:05:23.983 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.81%
+2024-11-25 18:05:24.013 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 74.60%
+2024-11-25 18:05:24.047 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.19%
+2024-11-25 18:05:24.072 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.98%
+2024-11-25 18:05:24.096 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 77.78%
+2024-11-25 18:05:24.118 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 78.57%
+2024-11-25 18:05:24.137 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 79.37%
+2024-11-25 18:05:24.155 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.16%
+2024-11-25 18:05:24.180 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.95%
+2024-11-25 18:05:24.200 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 82.54%
+2024-11-25 18:05:24.217 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 83.33%
+2024-11-25 18:05:24.239 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.13%
+2024-11-25 18:05:24.259 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.92%
+2024-11-25 18:05:24.273 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 85.71%
+2024-11-25 18:05:24.292 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 86.51%
+2024-11-25 18:05:24.309 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 87.30%
+2024-11-25 18:05:24.323 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.89%
+2024-11-25 18:05:24.337 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 89.68%
+2024-11-25 18:05:24.361 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 90.48%
+2024-11-25 18:05:24.375 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 91.27%
+2024-11-25 18:05:24.395 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.06%
+2024-11-25 18:05:24.411 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.86%
+2024-11-25 18:05:24.429 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 93.65%
+2024-11-25 18:05:24.443 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 95.24%
+2024-11-25 18:05:24.477 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.03%
+2024-11-25 18:05:24.512 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.83%
+2024-11-25 18:05:24.535 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 97.62%
+2024-11-25 18:05:24.554 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 98.41%
+2024-11-25 18:05:24.570 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 99.21%
+2024-11-25 18:05:24.629 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 100.00%
+2024-11-25 18:05:35.234 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 99.21%
+2024-11-25 18:05:35.247 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 98.41%
+2024-11-25 18:05:35.259 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 97.62%
+2024-11-25 18:05:35.272 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.03%
+2024-11-25 18:05:35.286 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 95.24%
+2024-11-25 18:05:35.299 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 94.44%
+2024-11-25 18:05:35.312 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 93.65%
+2024-11-25 18:05:35.325 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.86%
+2024-11-25 18:05:35.342 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.06%
+2024-11-25 18:05:35.365 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 90.48%
+2024-11-25 18:05:35.483 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 89.68%
+2024-11-25 18:05:35.502 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.89%
+2024-11-25 18:05:35.513 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.10%
+2024-11-25 18:05:35.526 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 87.30%
+2024-11-25 18:05:35.540 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 86.51%
+2024-11-25 18:05:35.553 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 85.71%
+2024-11-25 18:05:35.567 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.92%
+2024-11-25 18:05:35.582 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.13%
+2024-11-25 18:05:35.595 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 83.33%
+2024-11-25 18:05:35.608 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 81.75%
+2024-11-25 18:05:35.619 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.95%
+2024-11-25 18:05:35.633 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.16%
+2024-11-25 18:05:35.647 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 79.37%
+2024-11-25 18:05:35.661 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 78.57%
+2024-11-25 18:05:35.675 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 77.78%
+2024-11-25 18:05:35.688 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.98%
+2024-11-25 18:05:35.699 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.19%
+2024-11-25 18:05:35.713 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 75.40%
+2024-11-25 18:05:35.728 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 74.60%
+2024-11-25 18:05:35.742 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.81%
+2024-11-25 18:05:35.757 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 72.22%
+2024-11-25 18:05:35.770 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 71.43%
+2024-11-25 18:05:35.784 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 70.63%
+2024-11-25 18:05:35.798 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.05%
+2024-11-25 18:05:35.812 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 68.25%
+2024-11-25 18:05:35.825 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 67.46%
+2024-11-25 18:05:35.841 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 66.67%
+2024-11-25 18:05:35.855 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.87%
+2024-11-25 18:05:35.875 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.08%
+2024-11-25 18:05:35.900 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 64.29%
+2024-11-25 18:05:35.914 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 63.49%
+2024-11-25 18:05:35.930 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 62.70%
+2024-11-25 18:05:35.944 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.90%
+2024-11-25 18:05:35.960 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.11%
+2024-11-25 18:05:35.975 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 60.32%
+2024-11-25 18:05:35.990 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 59.52%
+2024-11-25 18:05:36.026 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 58.73%
+2024-11-25 18:05:36.097 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.94%
+2024-11-25 18:05:36.129 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.14%
+2024-11-25 18:05:36.160 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 56.35%
+2024-11-25 18:05:36.178 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 55.56%
+2024-11-25 18:05:36.224 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 54.76%
+2024-11-25 18:05:36.262 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.97%
+2024-11-25 18:05:36.282 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.17%
+2024-11-25 18:05:36.334 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 52.38%
+2024-11-25 18:05:36.374 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 51.59%
+2024-11-25 18:05:36.389 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.00%
+2024-11-25 18:05:36.416 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 49.21%
+2024-11-25 18:05:36.445 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 48.41%
+2024-11-25 18:05:36.459 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 47.62%
+2024-11-25 18:05:36.471 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.83%
+2024-11-25 18:05:36.497 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.03%
+2024-11-25 18:05:36.523 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 45.24%
+2024-11-25 18:05:36.538 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 43.65%
+2024-11-25 18:05:36.570 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.86%
+2024-11-25 18:05:36.635 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.06%
+2024-11-25 18:05:36.699 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 41.27%
+2024-11-25 18:05:36.749 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 40.48%
+2024-11-25 18:05:36.791 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 39.68%
+2024-11-25 18:05:36.804 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.89%
+2024-11-25 18:05:36.817 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.10%
+2024-11-25 18:05:36.830 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 37.30%
+2024-11-25 18:05:36.843 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 36.51%
+2024-11-25 18:05:36.856 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 35.71%
+2024-11-25 18:05:36.871 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.92%
+2024-11-25 18:05:36.884 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.13%
+2024-11-25 18:05:36.898 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 33.33%
+2024-11-25 18:05:36.910 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 32.54%
+2024-11-25 18:05:36.923 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.95%
+2024-11-25 18:05:36.935 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.16%
+2024-11-25 18:05:36.949 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 29.37%
+2024-11-25 18:05:36.963 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 28.57%
+2024-11-25 18:05:36.975 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 27.78%
+2024-11-25 18:05:36.987 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.98%
+2024-11-25 18:05:36.998 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.19%
+2024-11-25 18:05:37.010 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 25.40%
+2024-11-25 18:05:37.024 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.81%
+2024-11-25 18:05:37.040 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.02%
+2024-11-25 18:05:37.053 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 21.43%
+2024-11-25 18:05:37.064 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 20.63%
+2024-11-25 18:05:37.075 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.84%
+2024-11-25 18:05:37.086 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 18.25%
+2024-11-25 18:05:37.098 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 17.46%
+2024-11-25 18:05:37.111 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 16.67%
+2024-11-25 18:05:37.123 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.87%
+2024-11-25 18:05:37.135 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 14.29%
+2024-11-25 18:05:37.149 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 13.49%
+2024-11-25 18:05:37.160 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.90%
+2024-11-25 18:05:37.172 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.11%
+2024-11-25 18:05:37.184 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 10.32%
+2024-11-25 18:05:37.196 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 8.73%
+2024-11-25 18:05:37.209 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.94%
+2024-11-25 18:05:37.222 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.14%
+2024-11-25 18:05:37.234 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 6.35%
+2024-11-25 18:05:37.247 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 4.76%
+2024-11-25 18:05:37.260 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.97%
+2024-11-25 18:05:37.274 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.17%
+2024-11-25 18:05:37.287 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 2.38%
+2024-11-25 18:05:37.300 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 1.59%
+2024-11-25 18:05:37.312 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.79%
+2024-11-25 18:05:37.323 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.00%
+2024-11-25 18:05:37.335 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.00%
+2024-11-25 18:05:37.504 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.00%
+2024-11-25 18:05:37.516 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 0.79%
+2024-11-25 18:05:37.530 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 2.38%
+2024-11-25 18:05:37.543 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.17%
+2024-11-25 18:05:37.555 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 3.97%
+2024-11-25 18:05:37.567 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 4.76%
+2024-11-25 18:05:37.578 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 6.35%
+2024-11-25 18:05:37.591 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.14%
+2024-11-25 18:05:37.605 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 7.94%
+2024-11-25 18:05:37.617 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 9.52%
+2024-11-25 18:05:37.628 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.11%
+2024-11-25 18:05:37.640 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 11.90%
+2024-11-25 18:05:37.656 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 12.70%
+2024-11-25 18:05:37.674 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 13.49%
+2024-11-25 18:05:37.697 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.08%
+2024-11-25 18:05:37.711 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 15.87%
+2024-11-25 18:05:37.724 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 16.67%
+2024-11-25 18:05:37.738 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 17.46%
+2024-11-25 18:05:37.750 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.05%
+2024-11-25 18:05:37.763 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 19.84%
+2024-11-25 18:05:37.776 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 21.43%
+2024-11-25 18:05:37.788 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 22.22%
+2024-11-25 18:05:37.799 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 23.81%
+2024-11-25 18:05:37.812 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 25.40%
+2024-11-25 18:05:37.824 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.19%
+2024-11-25 18:05:37.836 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 26.98%
+2024-11-25 18:05:37.850 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 28.57%
+2024-11-25 18:05:37.864 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.16%
+2024-11-25 18:05:37.877 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 30.95%
+2024-11-25 18:05:37.890 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 32.54%
+2024-11-25 18:05:37.901 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 33.33%
+2024-11-25 18:05:37.914 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.13%
+2024-11-25 18:05:37.927 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 34.92%
+2024-11-25 18:05:37.941 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 35.71%
+2024-11-25 18:05:37.953 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 36.51%
+2024-11-25 18:05:37.965 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.10%
+2024-11-25 18:05:37.977 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 38.89%
+2024-11-25 18:05:37.989 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 40.48%
+2024-11-25 18:05:38.005 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 41.27%
+2024-11-25 18:05:38.027 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 42.86%
+2024-11-25 18:05:38.043 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 43.65%
+2024-11-25 18:05:38.059 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 44.44%
+2024-11-25 18:05:38.073 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 45.24%
+2024-11-25 18:05:38.087 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 46.03%
+2024-11-25 18:05:38.101 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 47.62%
+2024-11-25 18:05:38.116 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 48.41%
+2024-11-25 18:05:38.131 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 49.21%
+2024-11-25 18:05:38.148 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.00%
+2024-11-25 18:05:38.168 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 50.79%
+2024-11-25 18:05:38.184 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 51.59%
+2024-11-25 18:05:38.199 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.17%
+2024-11-25 18:05:38.214 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 53.97%
+2024-11-25 18:05:38.228 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 54.76%
+2024-11-25 18:05:38.244 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 55.56%
+2024-11-25 18:05:38.258 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.14%
+2024-11-25 18:05:38.272 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 57.94%
+2024-11-25 18:05:38.287 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 58.73%
+2024-11-25 18:05:38.303 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 60.32%
+2024-11-25 18:05:38.323 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.11%
+2024-11-25 18:05:38.345 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 61.90%
+2024-11-25 18:05:38.363 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 63.49%
+2024-11-25 18:05:38.378 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 64.29%
+2024-11-25 18:05:38.392 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 65.08%
+2024-11-25 18:05:38.407 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 66.67%
+2024-11-25 18:05:38.420 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 67.46%
+2024-11-25 18:05:38.435 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 68.25%
+2024-11-25 18:05:38.450 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.05%
+2024-11-25 18:05:38.466 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 69.84%
+2024-11-25 18:05:38.480 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 70.63%
+2024-11-25 18:05:38.493 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 72.22%
+2024-11-25 18:05:38.505 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.02%
+2024-11-25 18:05:38.517 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 73.81%
+2024-11-25 18:05:38.531 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 74.60%
+2024-11-25 18:05:38.544 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.19%
+2024-11-25 18:05:38.556 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 76.98%
+2024-11-25 18:05:38.571 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 77.78%
+2024-11-25 18:05:38.583 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 78.57%
+2024-11-25 18:05:38.596 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 79.37%
+2024-11-25 18:05:38.609 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.16%
+2024-11-25 18:05:38.622 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 80.95%
+2024-11-25 18:05:38.633 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 82.54%
+2024-11-25 18:05:38.646 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 83.33%
+2024-11-25 18:05:38.657 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.13%
+2024-11-25 18:05:38.668 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 84.92%
+2024-11-25 18:05:38.681 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 85.71%
+2024-11-25 18:05:38.693 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 86.51%
+2024-11-25 18:05:38.705 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 87.30%
+2024-11-25 18:05:38.718 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 88.89%
+2024-11-25 18:05:38.730 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 89.68%
+2024-11-25 18:05:38.742 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 90.48%
+2024-11-25 18:05:38.754 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 91.27%
+2024-11-25 18:05:38.771 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 92.86%
+2024-11-25 18:05:38.782 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 93.65%
+2024-11-25 18:05:38.793 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 94.44%
+2024-11-25 18:05:38.805 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 95.24%
+2024-11-25 18:05:38.816 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 96.83%
+2024-11-25 18:05:38.827 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 97.62%
+2024-11-25 18:05:38.840 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 98.41%
+2024-11-25 18:05:38.852 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 99.21%
+2024-11-25 18:05:38.864 - MPKMini - INFO - Knob 1 (Spotify Volume) adjusted to 100.00%
+2024-11-25 18:05:56.996 - MPKMini - INFO - Stopping MIDI input listener...
+2024-11-25 18:05:57.000 - MPKMini - INFO - Cleanup completed

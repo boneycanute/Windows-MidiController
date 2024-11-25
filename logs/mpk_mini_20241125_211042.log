@@ -1,0 +1,4 @@
+2024-11-25 21:10:42.709 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 21:10:42.740 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 21:10:42.746 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 21:11:00.730 - root - ERROR - Fatal error: 'AkaiMPKMiniAutomation' object has no attribute 'wait_for_knob_calibration'

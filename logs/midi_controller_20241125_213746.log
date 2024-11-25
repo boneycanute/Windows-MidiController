@@ -1,0 +1,9 @@
+2024-11-25 21:37:46,323 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 21:37:46,359 - MPKMini - INFO - Found 4 MIDI devices:
+2024-11-25 21:37:46,359 - MPKMini - INFO - Device 0: Microsoft MIDI Mapper (Input: False, Output: True)
+2024-11-25 21:37:46,360 - MPKMini - INFO - Device 1: MPK Mini Mk II (Input: True, Output: False)
+2024-11-25 21:37:46,360 - MPKMini - INFO - Device 2: Microsoft GS Wavetable Synth (Input: False, Output: True)
+2024-11-25 21:37:46,360 - MPKMini - INFO - Device 3: MPK Mini Mk II (Input: False, Output: True)
+2024-11-25 21:37:46,366 - MPKMini - INFO - Connected to MIDI device: MPK Mini Mk II
+2024-11-25 21:37:46,366 - MPKMini - INFO - Started monitoring MIDI input
+2024-11-25 21:38:00,964 - MPKMini - INFO - Triggered voice recognition

@@ -1,0 +1,14 @@
+2024-11-25 21:12:07.895 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 21:12:07.926 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 21:12:07.932 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 21:13:10.595 - MPKMini - INFO - Configuration saved successfully
+2024-11-25 21:13:25.905 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 21:13:25.907 - MPKMini - INFO - Starting MIDI controller loop
+2024-11-25 21:13:25.907 - MPKMini - ERROR - Error in main loop: 'AkaiMPKMiniAutomation' object has no attribute 'handle_knob_action'
+2024-11-25 21:13:25.908 - MPKMini - ERROR - Detailed error information:
+Traceback (most recent call last):
+  File "C:\Users\Bones\Projects\Windows-Midi-controller\controller.py", line 538, in run
+    self.handle_knob_action(data1, data2)
+    ^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'AkaiMPKMiniAutomation' object has no attribute 'handle_knob_action'. Did you mean: 'handle_pad_action'?
+2024-11-25 21:13:25.914 - MPKMini - INFO - Cleaned up resources

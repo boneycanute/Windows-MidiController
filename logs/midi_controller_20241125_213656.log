@@ -1,0 +1,9 @@
+2024-11-25 21:36:56,689 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 21:36:56,729 - MPKMini - INFO - Found 4 MIDI devices:
+2024-11-25 21:36:56,729 - MPKMini - INFO - Device 0: Microsoft MIDI Mapper (Input: False, Output: True)
+2024-11-25 21:36:56,729 - MPKMini - INFO - Device 1: MPK Mini Mk II (Input: True, Output: False)
+2024-11-25 21:36:56,729 - MPKMini - INFO - Device 2: Microsoft GS Wavetable Synth (Input: False, Output: True)
+2024-11-25 21:36:56,729 - MPKMini - INFO - Device 3: MPK Mini Mk II (Input: False, Output: True)
+2024-11-25 21:36:56,730 - MPKMini - ERROR - Failed to initialize MIDI: b"PortMidi: `Host error'"
+2024-11-25 21:36:56,735 - MPKMini - ERROR - No MIDI input device available
+2024-11-25 21:36:56,735 - MPKMini - INFO - Cleaned up resources

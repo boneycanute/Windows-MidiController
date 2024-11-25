@@ -1,0 +1,44 @@
+2024-11-25 21:19:03.966 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 21:19:03.995 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 21:19:04.001 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 21:19:04.991 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 21:19:04.992 - MPKMini - INFO - Starting MIDI controller loop
+2024-11-25 21:19:06.833 - MPKMini - INFO - Spotify not found, launching...
+2024-11-25 21:19:06.887 - MPKMini - INFO - Launching Spotify from: C:\Users\Bones\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+2024-11-25 21:19:08.989 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:15.942 - MPKMini - INFO - Spotify not found, launching...
+2024-11-25 21:19:15.954 - MPKMini - INFO - Launching Spotify from: C:\Users\Bones\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+2024-11-25 21:19:18.056 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:20.262 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:21.800 - MPKMini - INFO - Spotify not found, launching...
+2024-11-25 21:19:21.814 - MPKMini - INFO - Launching Spotify from: C:\Users\Bones\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+2024-11-25 21:19:23.915 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:24.022 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:24.125 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:25.089 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:25.742 - MPKMini - INFO - Spotify not found, launching...
+2024-11-25 21:19:25.757 - MPKMini - INFO - Launching Spotify from: C:\Users\Bones\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+2024-11-25 21:19:27.860 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:27.963 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:29.359 - MPKMini - INFO - Spotify not found, launching...
+2024-11-25 21:19:29.373 - MPKMini - INFO - Launching Spotify from: C:\Users\Bones\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+2024-11-25 21:19:31.475 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:31.770 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:33.079 - MPKMini - INFO - Spotify not found, launching...
+2024-11-25 21:19:33.094 - MPKMini - INFO - Launching Spotify from: C:\Users\Bones\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+2024-11-25 21:19:35.196 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:38.853 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:19:40.442 - MPKMini - INFO - Spotify not found, launching...
+2024-11-25 21:19:40.459 - MPKMini - INFO - Launching Spotify from: C:\Users\Bones\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+2024-11-25 21:19:42.562 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:20:34.396 - MPKMini - INFO - Focused Windsurf window
+2024-11-25 21:20:38.401 - MPKMini - INFO - Focused Windsurf window
+2024-11-25 21:20:40.426 - MPKMini - INFO - Opened audio output selection
+2024-11-25 21:20:50.553 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 21:20:52.459 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 21:20:53.493 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 21:21:03.965 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 21:21:07.291 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 21:21:16.571 - MPKMini - INFO - Received keyboard interrupt, stopping...
+2024-11-25 21:21:16.576 - MPKMini - INFO - Cleaned up resources
+2024-11-25 21:21:19.701 - root - ERROR - Fatal error: 

@@ -1,0 +1,14 @@
+2024-11-25 18:20:40.412 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 18:20:40.452 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 18:20:40.453 - MPKMini - INFO - Searching for Akai MPK Mini device...
+2024-11-25 18:20:40.453 - MPKMini - INFO - Found Akai MPK Mini: MPK Mini Mk II (ID: 1)
+2024-11-25 18:20:40.460 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 18:20:48.778 - MPKMini - INFO - User mapped pad (note 3) to action: Minimize Window
+2024-11-25 18:20:50.203 - MPKMini - INFO - User mapped pad (note 2) to action: Maximize Window
+2024-11-25 18:20:51.564 - MPKMini - INFO - User mapped pad (note 1) to action: Switch Window (Alt+Tab)
+2024-11-25 18:20:52.897 - MPKMini - INFO - User mapped pad (note 0) to action: Open File Explorer
+2024-11-25 18:20:54.302 - MPKMini - INFO - User mapped pad (note 15) to action: Previous Track
+2024-11-25 18:20:55.626 - MPKMini - INFO - User mapped pad (note 14) to action: Play/Pause
+2024-11-25 18:20:56.885 - MPKMini - INFO - User mapped pad (note 13) to action: Next Track
+2024-11-25 18:20:58.184 - MPKMini - INFO - User mapped pad (note 12) to action: Show Desktop
+2024-11-25 18:21:17.384 - MPKMini - INFO - User mapped knob (CC 1) to action: System Volume (min: 49, max: 49)

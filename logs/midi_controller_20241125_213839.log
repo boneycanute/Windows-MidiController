@@ -1,0 +1,24 @@
+2024-11-25 21:38:39,972 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 21:38:40,002 - MPKMini - INFO - Found 4 MIDI devices:
+2024-11-25 21:38:40,002 - MPKMini - INFO - Device 0: Microsoft MIDI Mapper (Input: False, Output: True)
+2024-11-25 21:38:40,002 - MPKMini - INFO - Device 1: MPK Mini Mk II (Input: True, Output: False)
+2024-11-25 21:38:40,002 - MPKMini - INFO - Device 2: Microsoft GS Wavetable Synth (Input: False, Output: True)
+2024-11-25 21:38:40,002 - MPKMini - INFO - Device 3: MPK Mini Mk II (Input: False, Output: True)
+2024-11-25 21:38:40,003 - MPKMini - WARNING - Failed to initialize MIDI (attempt 1/3): b"PortMidi: `Host error'"
+2024-11-25 21:38:40,003 - MPKMini - INFO - Retrying in 1 second...
+2024-11-25 21:38:41,004 - MPKMini - INFO - Found 4 MIDI devices:
+2024-11-25 21:38:41,004 - MPKMini - INFO - Device 0: Microsoft MIDI Mapper (Input: False, Output: True)
+2024-11-25 21:38:41,004 - MPKMini - INFO - Device 1: MPK Mini Mk II (Input: True, Output: False)
+2024-11-25 21:38:41,004 - MPKMini - INFO - Device 2: Microsoft GS Wavetable Synth (Input: False, Output: True)
+2024-11-25 21:38:41,004 - MPKMini - INFO - Device 3: MPK Mini Mk II (Input: False, Output: True)
+2024-11-25 21:38:41,005 - MPKMini - WARNING - Failed to initialize MIDI (attempt 2/3): b"PortMidi: `Host error'"
+2024-11-25 21:38:41,005 - MPKMini - INFO - Retrying in 1 second...
+2024-11-25 21:38:42,005 - MPKMini - INFO - Found 4 MIDI devices:
+2024-11-25 21:38:42,006 - MPKMini - INFO - Device 0: Microsoft MIDI Mapper (Input: False, Output: True)
+2024-11-25 21:38:42,006 - MPKMini - INFO - Device 1: MPK Mini Mk II (Input: True, Output: False)
+2024-11-25 21:38:42,006 - MPKMini - INFO - Device 2: Microsoft GS Wavetable Synth (Input: False, Output: True)
+2024-11-25 21:38:42,006 - MPKMini - INFO - Device 3: MPK Mini Mk II (Input: False, Output: True)
+2024-11-25 21:38:42,007 - MPKMini - WARNING - Failed to initialize MIDI (attempt 3/3): b"PortMidi: `Host error'"
+2024-11-25 21:38:42,007 - MPKMini - ERROR - Failed to initialize MIDI after multiple attempts
+2024-11-25 21:38:42,007 - MPKMini - ERROR - No MIDI input device available
+2024-11-25 21:38:42,007 - MPKMini - INFO - Cleaned up resources

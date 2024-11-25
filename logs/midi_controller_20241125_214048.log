@@ -1,0 +1,19 @@
+2024-11-25 21:40:48,971 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 21:40:49,001 - MPKMini - INFO - Found 4 MIDI devices:
+2024-11-25 21:40:49,001 - MPKMini - INFO - Device 0: Microsoft MIDI Mapper (Input: False, Output: True)
+2024-11-25 21:40:49,001 - MPKMini - INFO - Device 1: MPK Mini Mk II (Input: True, Output: False)
+2024-11-25 21:40:49,001 - MPKMini - INFO - Device 2: Microsoft GS Wavetable Synth (Input: False, Output: True)
+2024-11-25 21:40:49,002 - MPKMini - INFO - Device 3: MPK Mini Mk II (Input: False, Output: True)
+2024-11-25 21:40:49,007 - MPKMini - INFO - Connected to MIDI device: MPK Mini Mk II
+2024-11-25 21:40:49,007 - MPKMini - INFO - Started monitoring MIDI input
+2024-11-25 21:40:51,886 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 21:40:54,845 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 21:40:58,230 - MPKMini - INFO - Opened audio output selection
+2024-11-25 21:41:00,390 - MPKMini - INFO - Opened audio output selection
+2024-11-25 21:41:09,272 - MPKMini - INFO - Focused Windsurf window
+2024-11-25 21:41:11,340 - MPKMini - INFO - Focused Slack window
+2024-11-25 21:41:18,597 - MPKMini - INFO - Slack not found, launching...
+2024-11-25 21:41:40,305 - MPKMini - INFO - Spotify not found, launching...
+2024-11-25 21:41:40,357 - MPKMini - INFO - Launching Spotify from: C:\Users\Bones\AppData\Local\Microsoft\WindowsApps\Spotify.exe
+2024-11-25 21:41:40,459 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:41:47,272 - MPKMini - INFO - Play/Pause command sent to Spotify

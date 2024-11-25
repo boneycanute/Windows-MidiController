@@ -1,0 +1,4 @@
+2024-11-25 21:09:21.325 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 21:09:21.356 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 21:09:21.362 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 21:09:21.368 - root - ERROR - Fatal error: EOF when reading a line

@@ -1,0 +1,4 @@
+2024-11-25 21:07:18.331 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 21:07:18.368 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 21:07:18.368 - MPKMini - ERROR - Akai MPK Mini not found! Available devices: [(b'MMSystem', b'Microsoft MIDI Mapper', 0, 1, 0), (b'MMSystem', b'MPK Mini Mk II', 1, 0, 0), (b'MMSystem', b'Microsoft GS Wavetable Synth', 0, 1, 0), (b'MMSystem', b'MPK Mini Mk II', 0, 1, 0)]
+2024-11-25 21:07:18.369 - root - ERROR - Fatal error: Akai MPK Mini not found! Available devices: [(b'MMSystem', b'Microsoft MIDI Mapper', 0, 1, 0), (b'MMSystem', b'MPK Mini Mk II', 1, 0, 0), (b'MMSystem', b'Microsoft GS Wavetable Synth', 0, 1, 0), (b'MMSystem', b'MPK Mini Mk II', 0, 1, 0)]

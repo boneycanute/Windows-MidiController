@@ -1,0 +1,31 @@
+2024-11-25 21:15:12.738 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 21:15:12.769 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 21:15:12.775 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 21:15:17.438 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 21:15:17.440 - MPKMini - INFO - Starting MIDI controller loop
+2024-11-25 21:15:22.265 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 21:15:24.011 - MPKMini - INFO - Spotify not found, launching...
+2024-11-25 21:15:24.012 - MPKMini - ERROR - Failed to launch Spotify: [WinError 2] The system cannot find the file specified
+2024-11-25 21:15:25.624 - MPKMini - INFO - Spotify not found, launching...
+2024-11-25 21:15:25.624 - MPKMini - ERROR - Failed to launch Spotify: [WinError 2] The system cannot find the file specified
+2024-11-25 21:15:35.073 - MPKMini - INFO - Previous track command sent
+2024-11-25 21:15:36.631 - MPKMini - INFO - Next track command sent
+2024-11-25 21:15:37.320 - MPKMini - INFO - Next track command sent
+2024-11-25 21:15:44.017 - MPKMini - INFO - Slack not found, launching...
+2024-11-25 21:15:49.856 - MPKMini - ERROR - Error executing pad action Launch/Focus Slack: (0, 'SetForegroundWindow', 'No error message is available')
+2024-11-25 21:15:49.857 - MPKMini - ERROR - Detailed error information:
+Traceback (most recent call last):
+  File "C:\Users\Bones\Projects\Windows-Midi-controller\controller.py", line 436, in handle_pad_action
+    win32gui.SetForegroundWindow(slack_window)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+pywintypes.error: (0, 'SetForegroundWindow', 'No error message is available')
+2024-11-25 21:15:56.506 - MPKMini - ERROR - Error executing pad action Launch/Focus Slack: (0, 'SetForegroundWindow', 'No error message is available')
+2024-11-25 21:15:56.507 - MPKMini - ERROR - Detailed error information:
+Traceback (most recent call last):
+  File "C:\Users\Bones\Projects\Windows-Midi-controller\controller.py", line 436, in handle_pad_action
+    win32gui.SetForegroundWindow(slack_window)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^
+pywintypes.error: (0, 'SetForegroundWindow', 'No error message is available')
+2024-11-25 21:17:11.383 - MPKMini - INFO - Received keyboard interrupt, stopping...
+2024-11-25 21:17:11.387 - MPKMini - INFO - Cleaned up resources
+2024-11-25 21:17:12.661 - root - ERROR - Fatal error: 

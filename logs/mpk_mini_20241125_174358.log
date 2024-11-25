@@ -1,0 +1,41 @@
+2024-11-25 17:43:58.573 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 17:43:58.612 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 17:43:58.613 - MPKMini - INFO - Searching for Akai MPK Mini device...
+2024-11-25 17:43:58.613 - MPKMini - INFO - Found Akai MPK Mini: MPK Mini Mk II (ID: 1)
+2024-11-25 17:43:58.620 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 17:44:02.708 - MPKMini - INFO - User mapped pad (note 3) to action: Minimize Window
+2024-11-25 17:44:04.951 - MPKMini - INFO - User mapped pad (note 2) to action: Maximize Window
+2024-11-25 17:44:07.685 - MPKMini - INFO - User mapped pad (note 1) to action: Switch Window (Alt+Tab)
+2024-11-25 17:44:11.108 - MPKMini - INFO - User mapped pad (note 0) to action: Open File Explorer
+2024-11-25 17:44:13.559 - MPKMini - INFO - User mapped pad (note 15) to action: Previous Track
+2024-11-25 17:44:15.116 - MPKMini - INFO - User mapped pad (note 14) to action: Play/Pause
+2024-11-25 17:44:18.504 - MPKMini - INFO - User mapped pad (note 13) to action: Next Track
+2024-11-25 17:44:20.569 - MPKMini - INFO - User mapped pad (note 12) to action: Show Desktop
+2024-11-25 17:44:34.760 - MPKMini - INFO - Pad pressed (note 12): Show Desktop
+2024-11-25 17:44:37.945 - MPKMini - INFO - Pad pressed (note 0): Open File Explorer
+2024-11-25 17:44:44.739 - MPKMini - INFO - Pad pressed (note 0): Open File Explorer
+2024-11-25 17:44:45.941 - MPKMini - INFO - Pad pressed (note 1): Switch Window (Alt+Tab)
+2024-11-25 17:44:47.210 - MPKMini - INFO - Pad pressed (note 1): Switch Window (Alt+Tab)
+2024-11-25 17:44:47.580 - MPKMini - INFO - Pad pressed (note 1): Switch Window (Alt+Tab)
+2024-11-25 17:44:49.348 - MPKMini - INFO - Pad pressed (note 2): Maximize Window
+2024-11-25 17:44:51.772 - MPKMini - INFO - Pad pressed (note 3): Minimize Window
+2024-11-25 17:44:52.811 - MPKMini - INFO - Pad pressed (note 3): Minimize Window
+2024-11-25 17:44:54.707 - MPKMini - INFO - Pad pressed (note 12): Show Desktop
+2024-11-25 17:44:55.995 - MPKMini - INFO - Pad pressed (note 13): Next Track
+2024-11-25 17:44:57.301 - MPKMini - INFO - Pad pressed (note 14): Play/Pause
+2024-11-25 17:44:58.123 - MPKMini - INFO - Pad pressed (note 13): Next Track
+2024-11-25 17:44:58.538 - MPKMini - INFO - Pad pressed (note 14): Play/Pause
+2024-11-25 17:44:58.977 - MPKMini - INFO - Pad pressed (note 15): Previous Track
+2024-11-25 17:44:59.999 - MPKMini - INFO - Pad pressed (note 14): Play/Pause
+2024-11-25 17:45:00.231 - MPKMini - INFO - Pad pressed (note 2): Maximize Window
+2024-11-25 17:45:00.442 - MPKMini - INFO - Pad pressed (note 3): Minimize Window
+2024-11-25 17:45:00.651 - MPKMini - INFO - Pad pressed (note 2): Maximize Window
+2024-11-25 17:45:00.890 - MPKMini - INFO - Pad pressed (note 15): Previous Track
+2024-11-25 17:45:01.068 - MPKMini - INFO - Pad pressed (note 14): Play/Pause
+2024-11-25 17:45:01.297 - MPKMini - INFO - Pad pressed (note 1): Switch Window (Alt+Tab)
+2024-11-25 17:45:01.511 - MPKMini - INFO - Pad pressed (note 1): Switch Window (Alt+Tab)
+2024-11-25 17:45:01.758 - MPKMini - INFO - Pad pressed (note 13): Next Track
+2024-11-25 17:45:01.967 - MPKMini - INFO - Pad pressed (note 12): Show Desktop
+2024-11-25 17:45:02.225 - MPKMini - INFO - Pad pressed (note 0): Open File Explorer
+2024-11-25 17:47:45.736 - MPKMini - INFO - Stopping MIDI input listener...
+2024-11-25 17:47:45.739 - MPKMini - INFO - Cleanup completed

@@ -1,0 +1,4 @@
+2024-11-25 21:09:43.093 - MPKMini - INFO - Initializing Akai MPK Mini automation...
+2024-11-25 21:09:43.123 - MPKMini - INFO - Pygame MIDI initialized successfully
+2024-11-25 21:09:43.129 - MPKMini - INFO - Connected to Akai MPK Mini (Device ID: 1)
+2024-11-25 21:09:46.147 - root - ERROR - Fatal error: 'AkaiMPKMiniAutomation' object has no attribute 'wait_for_pad_press'

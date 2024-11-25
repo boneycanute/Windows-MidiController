@@ -1,0 +1,15 @@
+2024-11-25 22:07:46,170 - MPKMini - INFO - Configuration loaded successfully
+2024-11-25 22:07:46,201 - MPKMini - INFO - Found 4 MIDI devices:
+2024-11-25 22:07:46,201 - MPKMini - INFO - Device 0: Microsoft MIDI Mapper (Input: False, Output: True)
+2024-11-25 22:07:46,202 - MPKMini - INFO - Device 1: MPK Mini Mk II (Input: True, Output: False)
+2024-11-25 22:07:46,202 - MPKMini - INFO - Device 2: Microsoft GS Wavetable Synth (Input: False, Output: True)
+2024-11-25 22:07:46,202 - MPKMini - INFO - Device 3: MPK Mini Mk II (Input: False, Output: True)
+2024-11-25 22:07:46,207 - MPKMini - INFO - Connected to MIDI device: MPK Mini Mk II
+2024-11-25 22:07:46,208 - MPKMini - INFO - Started monitoring MIDI input
+2024-11-25 22:07:50,812 - MPKMini - INFO - Slack not found, launching...
+2024-11-25 22:08:02,637 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 22:08:03,792 - MPKMini - INFO - Triggered voice recognition
+2024-11-25 22:08:07,361 - MPKMini - INFO - Opened audio output selection
+2024-11-25 22:08:13,204 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 22:08:14,452 - MPKMini - INFO - Play/Pause command sent to Spotify
+2024-11-25 22:08:41,279 - MPKMini - INFO - Stopping MIDI monitoring
